@@ -1,0 +1,8 @@
+site_name: SMART Documentation
+edit_uri: https://github.com/mwang87/SMART_NMR_Documentation/blob/master/docs/
+site_url: https://mwang87.github.io/SMART_NMR_Documentation/
+nav:
+    - GNPS Introduction: index.md
+theme:
+    name: material
+google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
