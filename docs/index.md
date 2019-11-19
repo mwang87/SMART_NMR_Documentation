@@ -10,23 +10,22 @@ Please prepare your NMR peak lists of each compound using Excel or preferably no
 
 |     1H     |     13C     |
 |:----------:|:-----------:|
-|      3     |      29     |
-|     3.4    |      29     |
-|      5     |     57.6    |
-|     5.6    |     59.4    |
-|     1.8    |     19.2    |
+|    3.00    |     29.0    |
+|    3.40    |     29.0    |
+|    5.00    |     57.6    |
+|    5.60    |     59.4    |
+|    1.80    |     19.2    |
 |    5.17    |     57.4    |
-|    7.49    |     129     |
+|    7.49    |    129.0    |
 |    7.51    |    130.5    |
 |    7.47    |    131.4    |
 
 In the NMR table files, wherever there are diastereotopic protons on a methylene carbon (i.e., CH2 with two distinct proton shifts), please add a separate entry for both the carbon and proton:
 
-| Column A | Column B |
-|----------|----------|
-| 13C      | 1H       | 
-| 43.2     | 3.12     |
-| 43.2     | 3.40     | 
+|     1H     |     13C     |
+|:----------:|:-----------:| 
+| 3.12       | 43.2        |
+| 3.40       | 43.2        | 
 
 After the .csv (or .tsv) file is ready, simply upload it to the first window by drag&drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 10 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon.
 
@@ -86,7 +85,7 @@ Names appear in alphabetic order.
 | Eugene    |    C.    | Lin          |
 | Zheng     |          | Long         |
 | Henry     |  Huanru  | Mao          |
-| Andrés    | Mauricio |              |
+| Andrés    | Mauricio | Caraballo    |
 | Jie       |          | Min          |
 | Anthony   |          | Mrse         |
 | Ben       |    C.    | Naman        |
@@ -98,7 +97,7 @@ Names appear in alphabetic order.
 | Nicholas  |          | Roberts      |
 | Yiwen     |          | Tao          |
 | Yoshinori |          | Uekusa       |
-| Ezra      |          | van Broeck   |
+| Ezra      |          | VanEverbroeck|
 | Vishal    |    T.    | Vasudevan    |
 | Mingxun   |          | Wang         |
 | Chen      |          | Zhang        |
