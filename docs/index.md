@@ -17,8 +17,16 @@ Please prepare your NMR peak lists of each compound using Excel or preferably no
 |     1.8    |     19.2    |
 |    5.17    |     57.4    |
 |    7.49    |     129     |
-|    7.49    |    130.5    |
-|    7.49    |    131.4    |
+|    7.51    |    130.5    |
+|    7.47    |    131.4    |
+
+In the NMR table files, wherever there are diastereotopic protons on a methylene carbon (i.e., CH2 with two distinct proton shifts), please add a separate entry for both the carbon and proton:
+
+| Column A | Column B |
+|----------|----------|
+| 13C      | 1H       | 
+| 43.2     | 3.12     |
+| 43.2     | 3.40     | 
 
 After the .csv (or .tsv) file is ready, simply upload it to the first window by drag&drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 10 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon.
 
