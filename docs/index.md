@@ -1,6 +1,6 @@
 # Welcome to SMART Documentation
 
-SMART is the next generation of NMR analysis.
+SMART (Small Molecule Accurate Recognition Technology) is the next generation of NMR analysis.
 
 ## Webserver User's Guide for SMART 2.0 Analysis
 
