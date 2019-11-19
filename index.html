@@ -254,8 +254,56 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#webserver" class="md-nav__link">
-    Webserver
+  <a href="#webserver-users-guide-for-smart-20-analysis" class="md-nav__link">
+    Webserver User's Guide for SMART 2.0 Analysis
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instructions-for-submitting-nmr-data-to-the-moliverse-the-training-set-for-smart" class="md-nav__link">
+    Instructions for submitting NMR data to the Moliverse (the training set for SMART)
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definitions" class="md-nav__link">
+    Definitions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#submitting-structures-to-the-moliverse-library" class="md-nav__link">
+    Submitting structures to the Moliverse library
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#convert-structure-to-smiles" class="md-nav__link">
+    Convert Structure to SMILES
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#minimum-information-for-nmr-tables" class="md-nav__link">
+    Minimum information for NMR tables
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acknowledgements" class="md-nav__link">
+    Acknowledgements
   </a>
   
 </li>
@@ -292,8 +340,56 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#webserver" class="md-nav__link">
-    Webserver
+  <a href="#webserver-users-guide-for-smart-20-analysis" class="md-nav__link">
+    Webserver User's Guide for SMART 2.0 Analysis
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instructions-for-submitting-nmr-data-to-the-moliverse-the-training-set-for-smart" class="md-nav__link">
+    Instructions for submitting NMR data to the Moliverse (the training set for SMART)
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definitions" class="md-nav__link">
+    Definitions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#submitting-structures-to-the-moliverse-library" class="md-nav__link">
+    Submitting structures to the Moliverse library
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#convert-structure-to-smiles" class="md-nav__link">
+    Convert Structure to SMILES
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#minimum-information-for-nmr-tables" class="md-nav__link">
+    Minimum information for NMR tables
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acknowledgements" class="md-nav__link">
+    Acknowledgements
   </a>
   
 </li>
@@ -319,8 +415,289 @@
                 
                 <h1 id="welcome-to-smart-documentation">Welcome to SMART Documentation</h1>
 <p>SMART is the next generation of NMR analysis.</p>
-<h2 id="webserver">Webserver</h2>
-<p>Where is the webserver? Pardon our dust while we are updating the documentation. </p>
+<h2 id="webserver-users-guide-for-smart-20-analysis">Webserver User's Guide for SMART 2.0 Analysis</h2>
+<p>Welcome to use the SMART 2.0 to test your compound(s). 
+The current version of SMART 2.0 is trained on 2D NMR spectra of 53,076 natural products. 
+Please prepare your NMR peak lists of each compound using Excel or preferably notepad/wordpad and save the NMR table of each compound as a comma-separated value (.csv) or tab-separated (.tsv) file. Please always place 1H data in the first column and their corresponding 13C data in the second column. The first row will be left for strings “1H” and “13C” as table head. Please strictly keep 1H shifts in 2 decimals and 13C shifts in a single decimal only. You can name the .csv file with any name that your operating system accepts.</p>
+<table>
+<thead>
+<tr>
+<th align="center">1H</th>
+<th align="center">13C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">3</td>
+<td align="center">29</td>
+</tr>
+<tr>
+<td align="center">3.4</td>
+<td align="center">29</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">57.6</td>
+</tr>
+<tr>
+<td align="center">5.6</td>
+<td align="center">59.4</td>
+</tr>
+<tr>
+<td align="center">1.8</td>
+<td align="center">19.2</td>
+</tr>
+<tr>
+<td align="center">5.17</td>
+<td align="center">57.4</td>
+</tr>
+<tr>
+<td align="center">7.49</td>
+<td align="center">129</td>
+</tr>
+<tr>
+<td align="center">7.49</td>
+<td align="center">130.5</td>
+</tr>
+<tr>
+<td align="center">7.49</td>
+<td align="center">131.4</td>
+</tr>
+</tbody>
+</table>
+<p>After the .csv (or .tsv) file is ready, simply upload it to the first window by drag&amp;drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 10 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon.</p>
+<p>To reference the system please citing the papers listed below. To ask questions, please post on the user forum. We will respond you as soon as we can.</p>
+<h2 id="instructions-for-submitting-nmr-data-to-the-moliverse-the-training-set-for-smart">Instructions for submitting NMR data to the Moliverse (the training set for SMART)</h2>
+<p>Please read all of the instructions below before you fill in the data collection files.</p>
+<h3 id="definitions">Definitions</h3>
+<p>Folder = a folder on your computer for organizing files; File = an excel file in .xlsx or .csv format; Sheet = a sheet within an excel file; Training database = the database used to train the AI; Test dataset = the inquiry dataset awaiting the AI to generate structural hypothesis</p>
+<h3 id="submitting-structures-to-the-moliverse-library">Submitting structures to the Moliverse library</h3>
+<p>Thank you for contributing to the SMART training database (AKA the Moliverse Library). For this submission, we ask you to fill out some information in the metadata file (only one metadata file for all compounds being submitted), and a second file with the tabulated NMR data as described below (the NMR data for each compound in its own file). 
+Connection between the two files will be by a 6 digit code number.  The starting letter/number combination for your submitted compounds will be assigned by the SMART operators, and then you should increment up for each ensuing compound by a value of 1 (e.g. AAA001 is the assigned code, the next compound in your series is AAA002, and so forth). Although compound replicates need to be avoided, please don’t worry as the SMART can cope with some replicates.
+In the Metadata file and the NMR Tables, only the items with an orange colored background are required; the green fields are desirable and will help us with developing more accurate and informative future versions of SMART. If for any compound, a specific data entry is not available, please leave it as blank.
+As noted above, in the Metadata file, only the SMILES entry is mandatory. Only when the isomeric SMILES is not available for a compound, canonical SMILES can be entered instead. The SMILES can be found on the PubChem website for majority of published compounds. If you cannot fine the SMILES on PubChem, the 3D structure in ChemDraw can be converted to SMILES by the program.</p>
+<h3 id="convert-structure-to-smiles">Convert Structure to SMILES</h3>
+<p>To convert a ChemDraw structure to SMILES, you must:
+1) Select the structure using the selection tool 
+2) From the Edit menu, point to Copy As, and then choose SMILES
+3) Paste the string in the target cell of the excel metadata file sheet.</p>
+<h3 id="minimum-information-for-nmr-tables">Minimum information for NMR tables</h3>
+<p>For compiling the NMR tables, please follow the examples in "NMR Tables" file in this same folder as the format for your data. NOTE: proton shifts should be rounded to exactly 2 decimal digits, and 13C shifts should be rounded to exactly a single decimal digit.
+For the NMR tables, the atom numbering is not needed, but just be certain that the proton shift matches the carbon shift in every row of the table.
+In the NMR table files, wherever there are diastereotopic protons on a methylene carbon (i.e., CH2 with two distinct proton shifts), please add a separate entry for both the carbon and proton:</p>
+<table>
+<thead>
+<tr>
+<th>Column A</th>
+<th>Column B</th>
+<th>Column C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13C</td>
+<td>1H</td>
+<td>Carbon type (optional)</td>
+</tr>
+<tr>
+<td>43.2</td>
+<td>3.12</td>
+<td>CH2</td>
+</tr>
+<tr>
+<td>43.2</td>
+<td>3.40</td>
+<td>CH2</td>
+</tr>
+</tbody>
+</table>
+<p>In the NMR table files, please put 13C shifts in Column A of the sheet and proton shifts in Column B of the sheet, as shown above.
+If you have any questions, please contact Chen Zhang chz023@ucsd.edu or Raphael Reher (rreher@ucsd.edu)</p>
+<p>End of Instructions.</p>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>We sincerely thank the following people who have done great work to make the idea of web-based SMART become true. You guys are awesome. 
+Names appear in alphabetic order.</p>
+<table>
+<thead>
+<tr>
+<th>First</th>
+<th align="center">Middle</th>
+<th>Last</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kelsey</td>
+<td align="center">L.</td>
+<td>Alexander</td>
+</tr>
+<tr>
+<td>Nuno</td>
+<td align="center"></td>
+<td>Bandeira</td>
+</tr>
+<tr>
+<td>Mitchell</td>
+<td align="center"></td>
+<td>Christy</td>
+</tr>
+<tr>
+<td>Garrison</td>
+<td align="center">W.</td>
+<td>Cottrell</td>
+</tr>
+<tr>
+<td>Pieter</td>
+<td align="center">C.</td>
+<td>Dorrestein</td>
+</tr>
+<tr>
+<td>Erik</td>
+<td align="center">C.</td>
+<td>Gerwick</td>
+</tr>
+<tr>
+<td>William</td>
+<td align="center">H.</td>
+<td>Gerwick</td>
+</tr>
+<tr>
+<td>Michael</td>
+<td align="center"></td>
+<td>Gilson</td>
+</tr>
+<tr>
+<td>Jenny</td>
+<td align="center"></td>
+<td>Hamer</td>
+</tr>
+<tr>
+<td>Yerlan</td>
+<td align="center"></td>
+<td>Idelbayev</td>
+</tr>
+<tr>
+<td>Hyunwoo</td>
+<td align="center"></td>
+<td>Kim</td>
+</tr>
+<tr>
+<td>Preston</td>
+<td align="center">B.</td>
+<td>Landon</td>
+</tr>
+<tr>
+<td>Aaron</td>
+<td align="center"></td>
+<td>Landon</td>
+</tr>
+<tr>
+<td>Tiago</td>
+<td align="center">F.</td>
+<td>Leao</td>
+</tr>
+<tr>
+<td>Eugene</td>
+<td align="center">C.</td>
+<td>Lin</td>
+</tr>
+<tr>
+<td>Zheng</td>
+<td align="center"></td>
+<td>Long</td>
+</tr>
+<tr>
+<td>Henry</td>
+<td align="center">Huanru</td>
+<td>Mao</td>
+</tr>
+<tr>
+<td>Andrés</td>
+<td align="center">Mauricio</td>
+<td></td>
+</tr>
+<tr>
+<td>Jie</td>
+<td align="center"></td>
+<td>Min</td>
+</tr>
+<tr>
+<td>Anthony</td>
+<td align="center"></td>
+<td>Mrse</td>
+</tr>
+<tr>
+<td>Ben</td>
+<td align="center">C.</td>
+<td>Naman</td>
+</tr>
+<tr>
+<td>Yashwanth</td>
+<td align="center"></td>
+<td>Nannapaneni</td>
+</tr>
+<tr>
+<td>Louis</td>
+<td align="center">Felix</td>
+<td>Nothias</td>
+</tr>
+<tr>
+<td>Poornav</td>
+<td align="center">S.</td>
+<td>Purushothama</td>
+</tr>
+<tr>
+<td>Siddarth</td>
+<td align="center"></td>
+<td>Ravichandran</td>
+</tr>
+<tr>
+<td>Raphael</td>
+<td align="center"></td>
+<td>Reher</td>
+</tr>
+<tr>
+<td>Nicholas</td>
+<td align="center"></td>
+<td>Roberts</td>
+</tr>
+<tr>
+<td>Yiwen</td>
+<td align="center"></td>
+<td>Tao</td>
+</tr>
+<tr>
+<td>Yoshinori</td>
+<td align="center"></td>
+<td>Uekusa</td>
+</tr>
+<tr>
+<td>Ezra</td>
+<td align="center"></td>
+<td>van Broeck</td>
+</tr>
+<tr>
+<td>Vishal</td>
+<td align="center">T.</td>
+<td>Vasudevan</td>
+</tr>
+<tr>
+<td>Mingxun</td>
+<td align="center"></td>
+<td>Wang</td>
+</tr>
+<tr>
+<td>Chen</td>
+<td align="center"></td>
+<td>Zhang</td>
+</tr>
+<tr>
+<td>Jianping</td>
+<td align="center"></td>
+<td>Zhao</td>
+</tr>
+</tbody>
+</table>
                 
                   
                 
