@@ -31,6 +31,10 @@ After the .csv (or .tsv) file is ready, simply upload it to the first window by 
 
 To reference the system please citing the papers listed below. To ask questions, please post on the user forum. We will respond you as soon as we can.
 
+1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.
+
+2. Coming soon.
+
 ## Instructions for submitting NMR data to the Moliverse (the training set for SMART)
 Please read all of the instructions below before you fill in the data collection files.
 ### Definitions
