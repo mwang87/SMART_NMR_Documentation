@@ -10,7 +10,7 @@ The current version of SMART 2.0 as of 11/25/2019 is trained on 2D NMR spectra o
 
 Before you start, pleaes unblock any pop-up blockers in your web browser.
 
-Please prepare your NMR peak lists of each compound using Excel or preferably notepad/wordpad and save the NMR table of each compound as a comma-separated value (.csv) or tab-separated (.tsv) file. Please always place 1H data in the first column and their corresponding 13C data in the second column. The first row will be left for strings “1H” and “13C” as table head. Please strictly keep 1H shifts in 2 decimals and 13C shifts in a single decimal only. You can name the .csv file with any name that your operating system accepts.
+Please prepare your NMR peak lists of each compound using Excel or preferably notepad/wordpad and save the NMR table of each compound as a comma-separated value (.csv) or tab-separated (.tsv) file. If you are using Microsoft Excel, this can be done by click "save as" and then choose the two file types. Please always place 1H data in the first column and their corresponding 13C data in the second column. The first row will be left for strings “1H” and “13C” as table head. Please strictly keep 1H shifts in 2 decimals and 13C shifts in a single decimal only. You can name the .csv file with any name that your operating system accepts.
 
 |     1H     |     13C     |
 |:----------:|:-----------:|
@@ -41,8 +41,10 @@ To reference the system please citing the papers listed below. To ask questions,
 
 ## Instructions for submitting NMR data to the Moliverse (the training set for SMART)
 Please read all of the instructions below before you fill in the data collection files.
+
 ### Definitions
 Folder = a folder on your computer for organizing files; File = an excel file in .xlsx or .csv format; Sheet = a sheet within an excel file; Training database = the database used to train the AI; Test dataset = the inquiry dataset awaiting the AI to generate structural hypothesis
+
 ### Submitting structures to the Moliverse library
 Thank you for contributing to the SMART training database (AKA the Moliverse Library). For this submission, we ask you to fill out some information in the metadata file (only one metadata file for all compounds being submitted), and a second file with the tabulated NMR data as described below (the NMR data for each compound in its own file). 
 
@@ -54,8 +56,8 @@ As noted above, in the Metadata file, only the SMILES entry is mandatory. Only w
 
 ### Convert Structure to SMILES
 To convert a ChemDraw structure to SMILES, you must:
-1) Select the structure using the selection tool 
-2) From the Edit menu, point to Copy As, and then choose SMILES
+1) Select the structure using the selection tool; 
+2) From the Edit menu, point to Copy As, and then choose SMILES;
 3) Paste the string in the target cell of the excel metadata file sheet.
 
 ### Minimum information for NMR tables
