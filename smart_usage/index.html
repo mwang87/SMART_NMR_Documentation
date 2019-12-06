@@ -102,7 +102,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#webserver-users-guide-for-smart-20-analysis" tabindex="1" class="md-skip">
+      <a href="#how-to-process-a-raw-hsqc-spectrum-to-a-nmr-table-with-mestrenova" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -262,8 +262,15 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#webserver-users-guide-for-smart-20-analysis" class="md-nav__link">
-    Webserver User's Guide for SMART 2.0 Analysis
+  <a href="#how-to-process-a-raw-hsqc-spectrum-to-a-nmr-table-with-mestrenova" class="md-nav__link">
+    How to process a raw HSQC spectrum to a NMR table with MestreNova
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#users-guide-for-smart-20-analysis" class="md-nav__link">
+    User's Guide for SMART 2.0 Analysis
   </a>
   
 </li>
@@ -324,8 +331,15 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#webserver-users-guide-for-smart-20-analysis" class="md-nav__link">
-    Webserver User's Guide for SMART 2.0 Analysis
+  <a href="#how-to-process-a-raw-hsqc-spectrum-to-a-nmr-table-with-mestrenova" class="md-nav__link">
+    How to process a raw HSQC spectrum to a NMR table with MestreNova
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#users-guide-for-smart-20-analysis" class="md-nav__link">
+    User's Guide for SMART 2.0 Analysis
   </a>
   
 </li>
@@ -365,9 +379,60 @@
                 
                   <h1>Using SMART</h1>
                 
-                <h2 id="webserver-users-guide-for-smart-20-analysis">Webserver User's Guide for SMART 2.0 Analysis</h2>
+                <h2 id="how-to-process-a-raw-hsqc-spectrum-to-a-nmr-table-with-mestrenova">How to process a raw HSQC spectrum to a NMR table with MestreNova</h2>
+<ol>
+<li>Open your raw HSQC spectrum in MestreNova</li>
+<li>Drag&amp;Drop your HSQC file (for Bruker data you find your spectrum under: pdata/1/2rr)</li>
+<li>Depending on purity and concentration of your sample and aquisition time your
+spectrum looks more or less clean and may need additional processing (see 2.)</li>
+</ol>
+<p><img alt="image" src="https://user-images.githubusercontent.com/57916837/70353294-f153a680-1821-11ea-96fb-85f3fea4f2b4.png" /></p>
+<ol>
+<li>For processing your HSQC spectrum click on 'Processing' tab</li>
+<li>click on 'Auto Phase Correction' (optional: correct manually)</li>
+<li>click on 'Auto Baseline Correction'</li>
+<li>click on 'More Processing' --&gt; click on 'Reduce t1 noise'
+You should see a clean spectrum now.</li>
+</ol>
+<p><img alt="image" src="https://user-images.githubusercontent.com/57916837/70353422-2b24ad00-1822-11ea-90a9-424dd2619d1a.png" /></p>
+<ol>
+<li>Annotate HSQC spectrum with chemical shifts (1H,13C)</li>
+<li>click on 'Analysis' tab</li>
+<li>reference your spectrum to residual solvent peaks or other reference points such as TMS signal (optional as SMART recognizes the relative position of all correlations)</li>
+<li>click on Auto Peak Picking (Important: Check by manually adding missed peaks and removing duplicated, nonsense and solvent peak annotations).
+Now each peak should be annotated with two numbers separated by comma (1H, 13C chemical shifts)</li>
+</ol>
+<p><img alt="HSQC_annotation" src="https://user-images.githubusercontent.com/57916837/70353559-7939b080-1822-11ea-84ea-87cc07946574.png" /></p>
+<ol>
+<li>Generate NMR table from annotated HSQC spectrum</li>
+<li>click on 'Analysis' tab</li>
+<li>click on 'NMR Peaks Table'</li>
+<li>move the f2 column to the left of the f1 column</li>
+<li>copy all (ctrl+A)</li>
+<li>click on 'copy peaks' and choose 'copy table'</li>
+</ol>
+<p><img alt="HSQC_annotation_to_table" src="https://user-images.githubusercontent.com/57916837/70353982-6a9fc900-1823-11ea-8704-7458b0a7f783.png" /></p>
+<ul>
+<li>open Excel or similar program and paste the table (ctrl+V)</li>
+</ul>
+<p><img alt="image" src="https://user-images.githubusercontent.com/57916837/70354067-958a1d00-1823-11ea-93da-9eaf03f11d2f.png" /></p>
+<ul>
+<li>align table in such a way that all values of f2 dimension = 1H are in one column and all values of the f1 dimension = 13C are in another column next to it</li>
+</ul>
+<p><img alt="image" src="https://user-images.githubusercontent.com/57916837/70354383-409ad680-1824-11ea-8847-7eaa167779be.png" /></p>
+<ul>
+<li>open a new excel document (ctrl+N)</li>
+<li>type in column A1: '1H' and in column B1: '13C'</li>
+<li>copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX</li>
+</ul>
+<p><img alt="image" src="https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png" /></p>
+<ul>
+<li>mark your table + header (1H,13C) and save as comma-separated file (.csv).</li>
+</ul>
+<p><strong>You are ready to use SMART 2.0 Analysis! :)</strong></p>
+<h2 id="users-guide-for-smart-20-analysis">User's Guide for SMART 2.0 Analysis</h2>
 <p>Welcome to use the SMART 2.0 to test your compound(s). </p>
-<p>The current version of SMART 2.0 as of 11/25/2019 is trained on 2D NMR spectra of 53,076 natural products. </p>
+<p>The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. </p>
 <p>Before you start, pleaes unblock any pop-up blockers in your web browser.</p>
 <p>Please checkout the server at <a href="https://smart.ucsd.edu/classic/">smart.ucsd.edu</a>.</p>
 <h2 id="input-data-formatting">Input Data Formatting</h2>
