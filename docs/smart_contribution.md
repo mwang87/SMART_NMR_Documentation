@@ -4,7 +4,9 @@ Please read all of the instructions below before you fill in the data collection
 
 ### Definitions
 Folder = a folder on your computer for organizing files; File = an excel file in .xlsx or .csv format; 
+
 Sheet = a sheet within an excel file; Training database = the database used to train the AI; 
+
 Test dataset = the inquiry dataset awaiting the AI to generate structural hypothesis
 
 ### Submitting structures to the Moliverse library
