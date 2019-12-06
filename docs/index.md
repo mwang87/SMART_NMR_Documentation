@@ -103,7 +103,7 @@ Names appear in alphabetic order.
 | Tiago     |    F.    | Leao         |
 | Eugene    |    C.    | Lin          |
 | Zheng     |          | Long         |
-| Henry     |  Huanru  | Mao          |
+| Huanru    |   Henry  | Mao          |
 | Andrés    | Mauricio | Caraballo    |
 | Jie       |          | Min          |
 | Anthony   |          | Mrse         |
