@@ -3,6 +3,8 @@ edit_uri: https://github.com/mwang87/SMART_NMR_Documentation/blob/master/docs/
 site_url: https://mwang87.github.io/SMART_NMR_Documentation/
 nav:
     - SMART Introduction: index.md
+    - Using SMART: smart_usage.md
+    - Contributing to SMART: smart_contribution.md
 theme:
     name: material
 google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
