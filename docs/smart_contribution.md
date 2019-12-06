@@ -39,6 +39,6 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 In the NMR table files, please put 13C shifts in Column A of the sheet and proton shifts in Column B of the sheet, as shown above.
 If you have any questions, please contact Chen Zhang (chz023 at-sign ucsd dot edu) or Raphael Reher (rreher at-sign ucsd dot edu)
 
-Please download data submission package here. After you complete, please email your package back to chz023 at-sign ucsd dot edu.
+Please download data submission package [here](https://smart.ucsd.edu/classic). After you complete, please email your package back to chz023 at-sign ucsd dot edu.
 
 End of Instructions.
