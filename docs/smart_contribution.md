@@ -3,7 +3,9 @@
 Please read all of the instructions below before you fill in the data collection files.
 
 ### Definitions
-Folder = a folder on your computer for organizing files; File = an excel file in .xlsx or .csv format; Sheet = a sheet within an excel file; Training database = the database used to train the AI; Test dataset = the inquiry dataset awaiting the AI to generate structural hypothesis
+Folder = a folder on your computer for organizing files; File = an excel file in .xlsx or .csv format; 
+Sheet = a sheet within an excel file; Training database = the database used to train the AI; 
+Test dataset = the inquiry dataset awaiting the AI to generate structural hypothesis
 
 ### Submitting structures to the Moliverse library
 Thank you for contributing to the SMART training database (AKA the Moliverse Library). For this submission, we ask you to fill out some information in the metadata file (only one metadata file for all compounds being submitted), and a second file with the tabulated NMR data as described below (the NMR data for each compound in its own file). 
