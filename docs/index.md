@@ -1,6 +1,8 @@
 # Welcome to SMART Documentation
 
-SMART (Small Molecule Accurate Recognition Technology) is the next generation of NMR analysis.
+SMART (Small Molecule Accurate Recognition Technology) is the next generation of NMR analysis. 
+
+SMART is a user-friendly, AI-based dereplication and analysis tool that uses 2D NMR data to rapidly associate newly isolated NPs with their known analogues. SMART has been designed to mimic the normal path of experiential learning in that additional 2D NMR spectral inputs can be used to enrich its database and improve its performance. In short, SMART aims to become an experienced associate to natural products researchers as well as other classes of organic chemists.
 
 ## Webserver User's Guide for SMART 2.0 Analysis
 
@@ -89,6 +91,7 @@ Names appear in alphabetic order.
 | Mitchell  |          | Christy      |
 | Garrison  |    W.    | Cottrell     |
 | Pieter    |    C.    | Dorrestein   |
+| Brendan   |    M.    | Duggan       |
 | Erik      |    C.    | Gerwick      |
 | William   |    H.    | Gerwick      |
 | Michael   |          | Gilson       |
