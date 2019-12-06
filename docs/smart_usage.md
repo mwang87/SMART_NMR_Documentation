@@ -7,7 +7,7 @@ The current version of SMART 2.0 as of 11/25/2019 is trained on 2D NMR spectra o
 
 Before you start, pleaes unblock any pop-up blockers in your web browser.
 
-Please checkout the server at [smart.ucsd.edu](https://smart.ucsd.edu/).
+Please checkout the server at [smart.ucsd.edu](https://smart.ucsd.edu/classic/).
 
 ## Input Data Formatting
 
