@@ -11,6 +11,8 @@
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
       
+        <link rel="canonical" href="https://mwang87.github.io/SMART_NMR_Documentation/smart_usage/">
+      
       
       
         <meta name="lang:clipboard.copy" content="Copy to clipboard">
@@ -31,21 +33,21 @@
       
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
-      <link rel="shortcut icon" href="/SMART_NMR_Documentation/assets/images/favicon.png">
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.5.1">
     
     
       
-        <title>SMART Documentation</title>
+        <title>Using SMART - SMART Documentation</title>
       
     
     
-      <link rel="stylesheet" href="/SMART_NMR_Documentation/assets/stylesheets/application.1b62728e.css">
+      <link rel="stylesheet" href="../assets/stylesheets/application.1b62728e.css">
       
       
     
     
-      <script src="/SMART_NMR_Documentation/assets/javascripts/modernizr.268332fc.js"></script>
+      <script src="../assets/javascripts/modernizr.268332fc.js"></script>
     
     
       
@@ -54,7 +56,7 @@
         <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
       
     
-    <link rel="stylesheet" href="/SMART_NMR_Documentation/assets/fonts/material-icons.css">
+    <link rel="stylesheet" href="../assets/fonts/material-icons.css">
     
     
     
@@ -100,6 +102,10 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
+      <a href="#webserver-users-guide-for-smart-20-analysis" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
@@ -122,7 +128,7 @@
             </span>
             <span class="md-header-nav__topic">
               
-                
+                Using SMART
               
             </span>
           
@@ -221,7 +227,7 @@
 
 
   <li class="md-nav__item">
-    <a href="/SMART_NMR_Documentation/." title="SMART Introduction" class="md-nav__link">
+    <a href=".." title="SMART Introduction" class="md-nav__link">
       SMART Introduction
     </a>
   </li>
@@ -231,11 +237,45 @@
       
       
 
+  
 
-  <li class="md-nav__item">
-    <a href="/SMART_NMR_Documentation/smart_usage/" title="Using SMART" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Using SMART
+      </label>
+    
+    <a href="./" title="Using SMART" class="md-nav__link md-nav__link--active">
       Using SMART
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#webserver-users-guide-for-smart-20-analysis" class="md-nav__link">
+    Webserver User's Guide for SMART 2.0 Analysis
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
     
@@ -245,7 +285,7 @@
 
 
   <li class="md-nav__item">
-    <a href="/SMART_NMR_Documentation/smart_contribution/" title="Contributing to SMART" class="md-nav__link">
+    <a href="../smart_contribution/" title="Contributing to SMART" class="md-nav__link">
       Contributing to SMART
     </a>
   </li>
@@ -258,12 +298,129 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#webserver-users-guide-for-smart-20-analysis" class="md-nav__link">
+    Webserver User's Guide for SMART 2.0 Analysis
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
-  <h1>404 - Not found</h1>
-
+                
+                  <a href="https://github.com/mwang87/SMART_NMR_Documentation/blob/master/docs/smart_usage.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                  <h1>Using SMART</h1>
+                
+                <h2 id="webserver-users-guide-for-smart-20-analysis">Webserver User's Guide for SMART 2.0 Analysis</h2>
+<p>Welcome to use the SMART 2.0 to test your compound(s). </p>
+<p>The current version of SMART 2.0 as of 11/25/2019 is trained on 2D NMR spectra of 53,076 natural products. </p>
+<p>Before you start, pleaes unblock any pop-up blockers in your web browser.</p>
+<p>Please prepare your NMR peak lists of each compound using Excel or preferably notepad/wordpad and save the NMR table of each compound as a comma-separated value (.csv) or tab-separated (.tsv) file. If you are using Microsoft Excel, this can be done by click "save as" and then choose the two file types. Please always place 1H data in the first column and their corresponding 13C data in the second column. The first row will be left for strings “1H” and “13C” as table head. Please strictly keep 1H shifts in 2 decimals and 13C shifts in a single decimal only. You can name the .csv file with any name that your operating system accepts.</p>
+<table>
+<thead>
+<tr>
+<th align="center">1H</th>
+<th align="center">13C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">3.00</td>
+<td align="center">29.0</td>
+</tr>
+<tr>
+<td align="center">3.40</td>
+<td align="center">29.0</td>
+</tr>
+<tr>
+<td align="center">5.00</td>
+<td align="center">57.6</td>
+</tr>
+<tr>
+<td align="center">5.60</td>
+<td align="center">59.4</td>
+</tr>
+<tr>
+<td align="center">1.80</td>
+<td align="center">19.2</td>
+</tr>
+<tr>
+<td align="center">5.17</td>
+<td align="center">57.4</td>
+</tr>
+<tr>
+<td align="center">7.49</td>
+<td align="center">129.0</td>
+</tr>
+<tr>
+<td align="center">7.51</td>
+<td align="center">130.5</td>
+</tr>
+<tr>
+<td align="center">7.47</td>
+<td align="center">131.4</td>
+</tr>
+</tbody>
+</table>
+<p>In the NMR table files, wherever there are diastereotopic protons on a methylene carbon (i.e., CH2 with two distinct proton shifts), please add a separate entry for both the carbon and proton:</p>
+<table>
+<thead>
+<tr>
+<th align="center">1H</th>
+<th align="center">13C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">3.12</td>
+<td align="center">43.2</td>
+</tr>
+<tr>
+<td align="center">3.40</td>
+<td align="center">43.2</td>
+</tr>
+</tbody>
+</table>
+<p>After the .csv (or .tsv) file is ready, simply upload it to the first window by drag&amp;drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 10 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon.</p>
+<p>To reference the system please citing the papers listed below. To ask questions, please post on the user forum. We will respond you as soon as we can.</p>
+<ol>
+<li>
+<p>Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.</p>
+</li>
+<li>
+<p>Coming soon.</p>
+</li>
+</ol>
+                
+                  
+                
+              
               
                 
 
@@ -276,6 +433,41 @@
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href=".." title="SMART Introduction" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                SMART Introduction
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../smart_contribution/" title="Contributing to SMART" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Contributing to SMART
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
@@ -294,9 +486,9 @@
       
     </div>
     
-      <script src="/SMART_NMR_Documentation/assets/javascripts/application.8e03edeb.js"></script>
+      <script src="../assets/javascripts/application.8e03edeb.js"></script>
       
-      <script>app.initialize({version:"1.0.4",url:{base:"/SMART_NMR_Documentation/"}})</script>
+      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
       
     
   </body>
