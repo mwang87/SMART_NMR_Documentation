@@ -7,6 +7,10 @@ The current version of SMART 2.0 as of 11/25/2019 is trained on 2D NMR spectra o
 
 Before you start, pleaes unblock any pop-up blockers in your web browser.
 
+Please checkout the server at [smart.ucsd.edu](https://smart.ucsd.edu/).
+
+## Input Data Formatting
+
 Please prepare your NMR peak lists of each compound using Excel or preferably notepad/wordpad and save the NMR table of each compound as a comma-separated value (.csv) or tab-separated (.tsv) file. If you are using Microsoft Excel, this can be done by click "save as" and then choose the two file types. Please always place 1H data in the first column and their corresponding 13C data in the second column. The first row will be left for strings “1H” and “13C” as table head. Please strictly keep 1H shifts in 2 decimals and 13C shifts in a single decimal only. You can name the .csv file with any name that your operating system accepts.
 
 |     1H     |     13C     |
@@ -29,6 +33,8 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 | 3.40       | 43.2        | 
 
 After the .csv (or .tsv) file is ready, simply upload it to the first window by drag&drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 10 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon.
+
+## References
 
 To reference the system please citing the papers listed below. To ask questions, please post on the user forum. We will respond you as soon as we can.
 
