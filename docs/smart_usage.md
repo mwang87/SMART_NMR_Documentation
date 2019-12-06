@@ -1,9 +1,62 @@
 
-## Webserver User's Guide for SMART 2.0 Analysis
+## How to process a raw HSQC spectrum to a NMR table with MestreNova
+
+1. Open your raw HSQC spectrum in MestreNova
+- Drag&Drop your HSQC file (for Bruker data you find your spectrum under: pdata/1/2rr)
+- Depending on purity and concentration of your sample and aquisition time your
+spectrum looks more or less clean and may need additional processing (see 2.)
+
+![image](https://user-images.githubusercontent.com/57916837/70353294-f153a680-1821-11ea-96fb-85f3fea4f2b4.png)
+
+2. For processing your HSQC spectrum click on 'Processing' tab
+- click on 'Auto Phase Correction' (optional: correct manually)
+- click on 'Auto Baseline Correction'
+- click on 'More Processing' --> click on 'Reduce t1 noise'
+You should see a clean spectrum now.
+
+![image](https://user-images.githubusercontent.com/57916837/70353422-2b24ad00-1822-11ea-90a9-424dd2619d1a.png)
+
+3.  Annotate HSQC spectrum with chemical shifts (1H,13C)
+- click on 'Analysis' tab
+- reference your spectrum to residual solvent peaks or other reference points such as TMS signal (optional as SMART recognizes the relative position of all correlations)
+- click on Auto Peak Picking (Important: Check by manually adding missed peaks and removing duplicated, nonsense and solvent peak annotations).
+Now each peak should be annotated with two numbers separated by comma (1H, 13C chemical shifts)
+
+![HSQC_annotation](https://user-images.githubusercontent.com/57916837/70353559-7939b080-1822-11ea-84ea-87cc07946574.png)
+
+4. Generate NMR table from annotated HSQC spectrum
+- click on 'Analysis' tab
+- click on 'NMR Peaks Table'
+- move the f2 column to the left of the f1 column
+- copy all (ctrl+A)
+- click on 'copy peaks' and choose 'copy table'
+
+![HSQC_annotation_to_table](https://user-images.githubusercontent.com/57916837/70353982-6a9fc900-1823-11ea-8704-7458b0a7f783.png)
+
+- open Excel or similar program and paste the table (ctrl+V)
+
+![image](https://user-images.githubusercontent.com/57916837/70354067-958a1d00-1823-11ea-93da-9eaf03f11d2f.png)
+
+- align table in such a way that all values of f2 dimension = 1H are in one column and all values of the f1 dimension = 13C are in another column next to it
+
+![image](https://user-images.githubusercontent.com/57916837/70354383-409ad680-1824-11ea-8847-7eaa167779be.png)
+
+- open a new excel document (ctrl+N)
+- type in column A1: '1H' and in column B1: '13C'
+- copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX
+
+![image](https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png)
+
+- mark your table + header (1H,13C) and save as comma-separated file (.csv).
+
+**You are ready to use SMART 2.0 Analysis! :)**
+
+
+## User's Guide for SMART 2.0 Analysis
 
 Welcome to use the SMART 2.0 to test your compound(s). 
 
-The current version of SMART 2.0 as of 11/25/2019 is trained on 2D NMR spectra of 53,076 natural products. 
+The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. 
 
 Before you start, pleaes unblock any pop-up blockers in your web browser.
 
