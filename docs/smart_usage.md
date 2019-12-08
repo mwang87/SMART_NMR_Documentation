@@ -95,4 +95,4 @@ To reference the system please citing the papers listed below. To ask questions,
 
 2. Coming soon.
 
-<img src="/Images/SMART_logo_12_2.png" align="right" width="250" height="100" >
+<img src="https://user-images.githubusercontent.com/20175888/70386594-ecd8dc00-194e-11ea-8378-ba1929e90ae4.png" align="right" width="250" height="100" >
