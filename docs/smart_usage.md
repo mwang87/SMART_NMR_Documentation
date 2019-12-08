@@ -47,6 +47,7 @@ Now each peak should be annotated with two numbers separated by comma (1H, 13C c
 
 ![image](https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png)
 
+- reduce number of decimals for 13C from 2 to 1 (for example 123.9 instead of 123.87).
 - mark your table + header (1H,13C) and save as comma-separated file (.csv).
 
 **You are ready to use SMART 2.0 Analysis! :)**
