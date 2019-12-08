@@ -94,3 +94,5 @@ To reference the system please citing the papers listed below. To ask questions,
 1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.
 
 2. Coming soon.
+
+<img src="/Images/SMART_logo_12_1.png" align="right" width="250" height="100" >
