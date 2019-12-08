@@ -47,4 +47,4 @@ Names appear in alphabetic order.
 | Chen      |          | Zhang        |
 | Jianping  |          | Zhao         |
 
-<img src="/Images/SMART_logo_12_1.png" align="right" width="250" height="100" >
+<img src="/Images/SMART_logo_12_2.png" align="right" width="250" height="100" >
