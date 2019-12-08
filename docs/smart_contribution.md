@@ -43,4 +43,4 @@ Please download data submission package [here](https://tinyurl.com/vee67qk). Aft
 
 End of Instructions.
 
-<img src="/Images/SMART_logo_12_2.png" align="right" width="250" height="100" >
+<img src="https://user-images.githubusercontent.com/20175888/70386594-ecd8dc00-194e-11ea-8378-ba1929e90ae4.png" align="right" width="250" height="100" >
