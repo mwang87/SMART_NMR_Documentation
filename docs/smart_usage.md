@@ -90,9 +90,12 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 
 After the .csv (or .tsv) file is ready, simply upload it to the first window by drag&drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 10 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon.
 
-## Visualizing your result(s) in the 3D cluster space
+## Visualizing your result(s) in the 3D cluster space (Moliverse)
 
-Please click the "Embed in the Moliverse" bar in the upper right side of the result page. Wait a while for the Embedding Projector to launch. To find your query molecule, please type "query" in the search bar in the upper right side of the Embedding Projector Webpage. Naturally, your query compound as well as its closest analogues will light up in unique colors. To better observe the clustering effect, please click UMAP or TSNE tabs in the lower left window. The clusters will manifest, like a flame.
+Please click the "Embed in the SMART DB" bar in the upper right side of the result page. Wait a while for the Embedding Projector to launch. To find your query molecule, please type "query" in the search bar in the upper right side of the Embedding Projector Webpage. Naturally, your query compound as well as its closest analogues will light up in unique colors (decreasing cosine similarity will be displayed by purple-red-orange-yellow).
+
+
+- To better observe the clustering effect, please click UMAP or T-SNE tabs in the lower left window. The clusters will organize themselves in real-time, clustering more similar compounds in close proximity and more dissimilar compounds apart from each other.
 
 ## Visualizing your 3D cluster space in a VR headset
 
