@@ -42,3 +42,5 @@ If you have any questions, please contact Chen Zhang (chz023 at-sign ucsd dot ed
 Please download data submission package [here](https://tinyurl.com/vee67qk). After you complete, please email your package back to chz023 at-sign ucsd dot edu.
 
 End of Instructions.
+
+<img src="/Images/SMART_logo_12_1.png" align="right" width="250" height="100" >
