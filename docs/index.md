@@ -13,12 +13,14 @@ Names appear in alphabetic order.
 |-----------|:--------:|---------------|
 | Kelsey    |    L.    | Alexander     |
 | Nuno      |          | Bandeira      |
+| Antoine   |    R.    | Blosse        |
 | Andrés    | Mauricio | Caraballo     |
 | Mitchell  |          | Christy       |
 | Garrison  |    W.    | Cottrell      |
 | Pieter    |    C.    | Dorrestein    |
 | Brendan   |    M.    | Duggan        |
 | Erik      |    C.    | Gerwick       |
+| Lena      |          | Gerwick       |
 | William   |    H.    | Gerwick       |
 | Michael   |    K.    | Gilson        |
 | Jenny     |          | Hamer         |
