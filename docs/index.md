@@ -9,42 +9,42 @@ SMART is a user-friendly, AI-based dereplication and analysis tool that uses 2D 
 We sincerely thank the following people who have done great work to make the idea of web-based SMART become true. You guys are awesome. 
 Names appear in alphabetic order.
 
-| First     |  Middle  | Last         |
-|-----------|:--------:|--------------|
-| Kelsey    |    L.    | Alexander    |
-| Nuno      |          | Bandeira     |
-| Mitchell  |          | Christy      |
-| Garrison  |    W.    | Cottrell     |
-| Pieter    |    C.    | Dorrestein   |
-| Brendan   |    M.    | Duggan       |
-| Erik      |    C.    | Gerwick      |
-| William   |    H.    | Gerwick      |
-| Michael   |          | Gilson       |
-| Jenny     |          | Hamer        |
-| Yerlan    |          | Idelbayev    |
-| Hyunwoo   |          | Kim          |
-| Preston   |    B.    | Landon       |
-| Aaron     |          | Landon       |
-| Tiago     |    F.    | Leao         |
-| Eugene    |    C.    | Lin          |
-| Zheng     |          | Long         |
-| Huanru    |   Henry  | Mao          |
-| Andrés    | Mauricio | Caraballo    |
-| Jie       |          | Min          |
-| Anthony   |          | Mrse         |
-| Ben       |    C.    | Naman        |
-| Yashwanth |          | Nannapaneni  |
-| Louis     |   Felix  | Nothias      |
-| Poornav   |    S.    | Purushothama |
-| Siddarth  |          | Ravichandran |
-| Raphael   |          | Reher        |
-| Nicholas  |          | Roberts      |
-| Yiwen     |          | Tao          |
-| Yoshinori |          | Uekusa       |
-| Ezra      |          | VanEverbroeck|
-| Vishal    |    T.    | Vasudevan    |
-| Mingxun   |          | Wang         |
-| Chen      |          | Zhang        |
-| Jianping  |          | Zhao         |
+| First     |  Middle  | Last          |
+|-----------|:--------:|---------------|
+| Kelsey    |    L.    | Alexander     |
+| Nuno      |          | Bandeira      |
+| Andrés    | Mauricio | Caraballo     |
+| Mitchell  |          | Christy       |
+| Garrison  |    W.    | Cottrell      |
+| Pieter    |    C.    | Dorrestein    |
+| Brendan   |    M.    | Duggan        |
+| Erik      |    C.    | Gerwick       |
+| William   |    H.    | Gerwick       |
+| Michael   |    K.    | Gilson        |
+| Jenny     |          | Hamer         |
+| Yerlan    |          | Idelbayev     |
+| Hyunwoo   |          | Kim           |
+| Preston   |    B.    | Landon        |
+| Aaron     |          | Landon        |
+| Tiago     |    F.    | Leao          |
+| Eugene    |    C.    | Lin           |
+| Zheng     |          | Long          |
+| Huanru    |   Henry  | Mao           |
+| Jie       |          | Min           |
+| Anthony   |          | Mrse          |
+| Ben       |    C.    | Naman         |
+| Yashwanth |          | Nannapaneni   |
+| Louis     |   Felix  | Nothias       |
+| Poornav   |    S.    | Purushothama  |
+| Siddarth  |          | Ravichandran  |
+| Raphael   |          | Reher         |
+| Nicholas  |          | Roberts       |
+| Yiwen     |          | Tao           |
+| Yoshinori |          | Uekusa        |
+| Ezra      |          | Van Everbroeck|
+| Vishal    |    T.    | Vasudevan     |
+| Mingxun   |          | Wang          |
+| Chen      |          | Zhang         |
+| Jianping  |          | Zhao          |
 
 <img src="https://user-images.githubusercontent.com/20175888/70386594-ecd8dc00-194e-11ea-8378-ba1929e90ae4.png" align="right" width="250" height="100" >
