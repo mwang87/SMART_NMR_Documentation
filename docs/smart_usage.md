@@ -95,7 +95,7 @@ Please click the "Embed in the Moliverse" bar in the upper right side of the res
 
 Please click [here](https://youtu.be/Pgfw-90t1t0) to watch the VR movie. The VR software will be delivered soon!
 
-## References
+## References, Q&A
 
 To reference the system please citing the papers listed below. To ask questions, please post on the user [forum](https://twitter.com/SMARTNMR1). We will respond you as soon as we can.
 
