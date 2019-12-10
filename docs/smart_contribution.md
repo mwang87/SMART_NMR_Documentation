@@ -16,7 +16,7 @@ Connection between the two files will be by a 6 digit code number.  The starting
 
 In the Metadata file and the NMR Tables, only the items with an orange colored background are required; the green fields are desirable and will help us with developing more accurate and informative future versions of SMART. If for any compound, a specific data entry is not available, please leave it as blank.
 
-As noted above, in the Metadata file, only the SMILES entry is mandatory. Only when the isomeric SMILES is not available for a compound, canonical SMILES can be entered instead. The SMILES can be found on the PubChem website for majority of published compounds. If you cannot fine the SMILES on PubChem, the 3D structure in ChemDraw can be converted to SMILES by the program.
+As noted above, in the Metadata file, only the SMILES entry is mandatory. Only when the isomeric SMILES is not available for a compound, canonical SMILES can be entered instead. The SMILES can be found on the PubChem website for majority of published compounds. If you cannot find the SMILES on PubChem, the 3D structure in ChemDraw can be converted to SMILES by the program.
 
 ### Convert Structure to SMILES
 To convert a ChemDraw structure to SMILES, you must:
