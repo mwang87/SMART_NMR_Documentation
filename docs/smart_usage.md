@@ -92,10 +92,10 @@ After the .csv file is ready, simply upload it to the first window by drag&drop.
 
 ## Visualizing your result(s) in the 3D cluster space (Moliverse)
 
-Please click the "Embed in the SMART DB" bar in the upper right side of the result page. Wait a while for the Embedding Projector to launch. To find your query molecule, please type "query" in the search bar in the upper right side of the Embedding Projector Webpage. Naturally, your query compound as well as its closest analogues will light up in unique colors (decreasing cosine similarity will be displayed by purple-red-orange-yellow).
-
+Please click the "Embed in the Moliverse" bar in the upper right side of the result page. Wait a while for the Embedding Projector to launch. To find your query molecule, please type "query" in the search bar in the upper right side of the Embedding Projector Webpage. Naturally, your query compound as well as its 100 closest analogues will light up in unique colors (decreasing cosine similarity will be displayed by purple-red-orange-yellow).
 
 - To better observe the clustering effect, please click UMAP or T-SNE tabs in the lower left window. The clusters will organize themselves in real-time, clustering more similar compounds in close proximity and more dissimilar compounds apart from each other.
+- Further you can access and enjoy the whole 'Moliverse' under https://smart.ucsd.edu/classic (click on 'Explore Moliverse')
 
 ## Visualizing your 3D cluster space in a VR headset
 
