@@ -61,7 +61,7 @@ Welcome to use the SMART 2.0 to test your compound(s).
 
 The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. 
 
-Before you start, pleaes unblock any pop-up blockers in your web browser.
+Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.
 
 Please checkout the server at [SMART 2.0](https://smart.ucsd.edu/classic).
 
