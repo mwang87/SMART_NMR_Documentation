@@ -57,13 +57,13 @@ Now each peak should be annotated with two numbers separated by comma (1H, 13C c
 
 ## User's Guide for SMART 2.0 Analysis
 
-Welcome to use the SMART 2.0 to test your compound(s). 
+Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smart.ucsd.edu/classic).
 
-The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. 
-
-Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.
-
-Please checkout the server at [SMART 2.0](https://smart.ucsd.edu/classic).
+- The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. 
+- Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.
+- One SMART 2.0 analysis should take < 20 seconds (if still 'analyzing' double check your input).
+- You can run multiple (up to 10) analyses at once.
+- If your results are dissatisfying please try to process your data again manually (delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) 
 
 ## Input Data Formatting
 
@@ -88,16 +88,16 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 | 3.12       | 43.2        |
 | 3.40       | 43.2        | 
 
-After the .csv file is ready, simply upload it to the first window by drag&drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 10 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon.
+After the .csv file is ready, simply upload it to the first window by drag&drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 100 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon and open it with Excel.
 
-## Visualizing your result(s) in the 3D cluster space (Moliverse)
+## Visualize your result(s) in the 3D cluster space (Moliverse)
 
 Please click the "Embed in the Moliverse" bar in the upper right side of the result page. Wait a while for the Embedding Projector to launch. To find your query molecule, please type "query" in the search bar in the upper right side of the Embedding Projector Webpage. Naturally, your query compound as well as its 100 closest analogues will light up in unique colors (decreasing cosine similarity will be displayed by purple-red-orange-yellow).
 
 - To better observe the clustering effect, please click UMAP or T-SNE tabs in the lower left window. The clusters will organize themselves in real-time, clustering more similar compounds in close proximity and more dissimilar compounds apart from each other.
 - Further you can access and enjoy the whole 'Moliverse' under https://smart.ucsd.edu/classic (click on 'Explore Moliverse')
 
-## Visualizing your 3D cluster space in a VR headset
+## Visualize the 3D cluster space (Moliverse) with a VR headset
 
 Please click [here](https://youtu.be/Pgfw-90t1t0) to watch the VR movie. The VR software will be delivered soon!
 
