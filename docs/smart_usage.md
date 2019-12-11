@@ -62,7 +62,7 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
 - Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.
 - One SMART 2.0 analysis should take < 20 seconds (if still 'analyzing' double check your input).
 - You can run multiple (up to 10) analyses at once.
-- If your results are dissatisfying please try to process your data again manually (delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) 
+- If your results are dissatisfying please try to process your data again manually (go back to **How to process a raw HSQC spectrum to a NMR table** and then delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) 
 
 ## Input Data Formatting
 
