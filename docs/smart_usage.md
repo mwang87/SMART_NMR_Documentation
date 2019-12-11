@@ -18,7 +18,6 @@ You should see a clean spectrum now.
 
 3.  Annotate HSQC spectrum with chemical shifts (1H,13C)
 - click on 'Analysis' tab
-- reference your spectrum to residual solvent peaks or other reference points such as TMS signal (optional as SMART recognizes the relative position of all correlations)
 - click on Auto Peak Picking (Important: Check by manually adding missed peaks and removing duplicated, nonsense and solvent peak annotations).
 Now each peak should be annotated with two numbers separated by comma (1H, 13C chemical shifts)
 
