@@ -102,7 +102,7 @@ Please click [here](https://youtu.be/Pgfw-90t1t0) to watch the VR movie. The VR 
 
 ## References, Q&A
 
-To reference the system please citing the papers listed below. To ask questions, please post on the user [forum](https://twitter.com/SMARTNMR1). We will respond you as soon as we can.
+To reference the system please citing the papers listed below. To ask questions, please post on the user [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can.
 
 1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.
 
