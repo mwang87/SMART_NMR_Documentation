@@ -25,7 +25,7 @@
     - click on 'copy peaks' and choose 'copy table'
     ![HSQC_annotation_to_table](https://user-images.githubusercontent.com/57916837/70353982-6a9fc900-1823-11ea-8704-7458b0a7f783.png)
 5. Open Excel or similar program and paste the table (ctrl+V)
-   ![image](https://user-images.githubusercontent.com/57916837/70354067-958a1d00-1823-11ea-93da-9eaf03f11d2f.png)
+    ![image](https://user-images.githubusercontent.com/57916837/70354067-958a1d00-1823-11ea-93da-9eaf03f11d2f.png)
     - align table in such a way that all values of f2 dimension = 1H are in one column and all values of the f1 dimension = 13C are in    another column next to it
     ![image](https://user-images.githubusercontent.com/57916837/70354383-409ad680-1824-11ea-8847-7eaa167779be.png)
 6. open a new excel document (ctrl+N)
