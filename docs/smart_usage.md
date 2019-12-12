@@ -6,7 +6,7 @@
     - Depending on purity and concentration of your sample and aquisition time your
       spectrum looks more or less clean and may need additional processing (see 2.)
 
-![image](https://user-images.githubusercontent.com/57916837/70353294-f153a680-1821-11ea-96fb-85f3fea4f2b4.png)
+ ![image](https://user-images.githubusercontent.com/57916837/70353294-f153a680-1821-11ea-96fb-85f3fea4f2b4.png)
 
 2. For processing your HSQC spectrum click on 'Processing' tab
     - click on 'Auto Phase Correction' (optional: correct manually)
