@@ -29,6 +29,7 @@ Names appear in alphabetic order.
 | Preston   |    B.    | Landon        |
 | Aaron     |          | Landon        |
 | Tiago     |    F.    | Leao          |
+| Bettina   |          | Lehman        |
 | Eugene    |    C.    | Lin           |
 | Zheng     |          | Long          |
 | Huanru    |   Henry  | Mao           |
