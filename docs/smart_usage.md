@@ -2,33 +2,33 @@
 ## How to process a raw HSQC spectrum to a NMR table with MestreNova
 
 1. Open your raw HSQC spectrum in MestreNova
-  - Drag&Drop your HSQC file (for Bruker data you find your spectrum under: pdata/1/2rr)
-  - Depending on purity and concentration of your sample and aquisition time your
+    - Drag&Drop your HSQC file (for Bruker data you find your spectrum under: pdata/1/2rr)
+    - Depending on purity and concentration of your sample and aquisition time your
 spectrum looks more or less clean and may need additional processing (see 2.)
 
 ![image](https://user-images.githubusercontent.com/57916837/70353294-f153a680-1821-11ea-96fb-85f3fea4f2b4.png)
 
 2. For processing your HSQC spectrum click on 'Processing' tab
-  - click on 'Auto Phase Correction' (optional: correct manually)
-  - click on 'Auto Baseline Correction'
-  - click on 'More Processing' --> click on 'Reduce t1 noise'
+    - click on 'Auto Phase Correction' (optional: correct manually)
+    - click on 'Auto Baseline Correction'
+    - click on 'More Processing' --> click on 'Reduce t1 noise'
 You should see a clean spectrum now.
 
 ![image](https://user-images.githubusercontent.com/57916837/70353422-2b24ad00-1822-11ea-90a9-424dd2619d1a.png)
 
 3.  Annotate HSQC spectrum with chemical shifts (1H,13C)
-  - click on 'Analysis' tab
-  - click on Auto Peak Picking (Important: Check by manually adding missed peaks and removing duplicated, nonsense and solvent peak annotations).
+    - click on 'Analysis' tab
+    - click on Auto Peak Picking (Important: Check by manually adding missed peaks and removing duplicated, nonsense and solvent peak annotations).
 Now each peak should be annotated with two numbers separated by comma (1H, 13C chemical shifts)
 
 ![HSQC_annotation](https://user-images.githubusercontent.com/57916837/70353559-7939b080-1822-11ea-84ea-87cc07946574.png)
 
 4. Generate NMR table from annotated HSQC spectrum
-  - click on 'Analysis' tab
-  - click on 'NMR Peaks Table'
-  - move the f2 column to the left of the f1 column
-  - copy all (ctrl+A)
-  - click on 'copy peaks' and choose 'copy table'
+    - click on 'Analysis' tab
+    - click on 'NMR Peaks Table'
+    - move the f2 column to the left of the f1 column
+    - copy all (ctrl+A)
+    - click on 'copy peaks' and choose 'copy table'
 
 ![HSQC_annotation_to_table](https://user-images.githubusercontent.com/57916837/70353982-6a9fc900-1823-11ea-8704-7458b0a7f783.png)
 
