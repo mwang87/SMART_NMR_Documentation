@@ -41,6 +41,14 @@ If you have any questions, please contact Chen Zhang (chz023 at-sign ucsd dot ed
 
 Please download data submission package [here](https://tinyurl.com/vee67qk). After you complete, please email your package back to chz023 at-sign ucsd dot edu.
 
+## References, Q&A
+
+To reference the system please citing the papers listed below. To ask questions, please post on the user [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can.
+
+1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.
+
+2. Coming soon.
+
 End of Instructions.
 
 <img src="https://user-images.githubusercontent.com/20175888/70386594-ecd8dc00-194e-11ea-8378-ba1929e90ae4.png" align="right" width="250" height="100" >
