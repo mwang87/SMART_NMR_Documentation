@@ -75,16 +75,12 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 ### Supported Formats at SMART
 SMART supports CSV formats for analysis. You can check your csv file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
 
-'''
-{
     1H,13C
     1.09,14.3
     2.21,22.2
     3.41,56.9
     7.21,128.6
     7.29,123.4
-}
-'''
 
 ### Submit CSV file for SMART Analysis
 
