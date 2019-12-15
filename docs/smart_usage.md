@@ -35,7 +35,9 @@
     - reduce column B (13C values) from two decimals to one (for example 128.22 --> **128.2**)
     - mark your table + header (1H,13C) and save as comma-separated file (.csv).
 
-**You are ready to use SMART 2.0 Analysis! :)**
+**You are ready to use SMART 2.0 Analysis! :)
+
+**Please feel free to play around with the processing parameters such as including/excluding noise signals or signals from other minor compounds in case of mixtures or explore the differences of SMART results when referencing your spectra compared to tables without referencing. Overall SMART is designed to be very robust towards any of these changes as its training is not only based on the absolute position of the peaks, but the relative position of each peak towards every other peak (see also References 1 + 2).**
 
 ## User's Guide for SMART 2.0 Analysis
 
@@ -70,7 +72,35 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 | 3.12       | 43.2        |
 | 3.40       | 43.2        | 
 
-After the .csv file is ready, simply upload it to the first window by drag&drop. You can submit multiple jobs at one time. The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 100 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon and open it with Excel.
+### Supported Formats at SMART
+SMART supports CSV formats for analysis. You can check your csv file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
+1H,13C
+1.09,14.3
+2.21,22.2
+3.41,56.9
+
+### Submit CSV file for SMART Analysis
+
+After the .csv file is ready, simply upload it to the first window by drag&drop or copy and paste the table. You can submit multiple jobs at one time. **Important: You have to allow pop-ups for https://smart.ucsd.edu/classic. If your analysis is still running after 20 seconds, pop-up blockers are the most likely reason why your analysis failed.** The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 100 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon and open it with Excel.
+
+## Troubleshooting
+
+### Overview
+This section addresses some common issues with the analysis workflows at SMART. If you run into any of these common issues, hopefully this page will give you actionable steps to address them. If this page cannot help you, please refer to the [forum](https://groups.google.com/forum/#!forum/smartnmr) to help answer your questions.
+
+### SMART Analysis
+
+**Failed Job**
+1. If your analysis is still running after 20 seconds, pop-up blockers are the most likely reason why your analysis failed. You have to allow pop-ups for https://smart.ucsd.edu/classic.
+2. The file format input is incorrect. Please make sure it is a supported file format for SMART (see Input Data Formatting)
+
+**Downloaded Results file cannot be opened**
+
+Yes you can :) You can open the downloaded results with any text editor (Excel, Notepad, Wordpad). Just make a right-click on the file, click on 'open with' and then choose one of the former mentioned programs.
+
+**Results Incorrect**
+The SMART is a very young project. It will become more and more accurate the more spectra you contribute to the Moliverse (see Contribute to SMART).
+- If your results show strange suggestions and all of the have a cosine score of 1.0 you probably switched the columns. PLease be sure that your first column as proton shifts (1H) and your second column has carbon shifts (13C) each 1H-13C pair separated by a comma.
 
 ## Visualize your result(s) in the 3D cluster space (Moliverse)
 
@@ -83,9 +113,13 @@ Please click the "Embed in the Moliverse" bar in the upper right side of the res
 
 Please click [here](https://youtu.be/Pgfw-90t1t0) to watch the VR movie. The VR software will be delivered soon!
 
-## References, Q&A
+## Contact
 
-To reference the system please citing the papers listed below. To ask questions, please post on the user [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can.
+If you have any questions about how to use SMART please first ask the community at the SMART forum located here: [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can.
+
+## References
+
+To reference the system please citing the papers listed below.
 
 1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.
 
