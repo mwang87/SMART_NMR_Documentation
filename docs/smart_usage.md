@@ -84,7 +84,7 @@ SMART supports CSV formats for analysis. You can check your csv file by opening 
 
 ### Submit CSV file for SMART Analysis
 
-After the .csv file is ready, simply upload it to the first window by drag&drop or copy and paste the table. You can submit multiple jobs at one time. **Important: You have to allow pop-ups for https://smart.ucsd.edu/classic. If your analysis is still running after 20 seconds, pop-up blockers are the most likely reason why your analysis failed.** The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 100 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon and open it with Excel.
+After the .csv file is ready, simply upload it to the first window by drag&drop (analysis automatically starts) or copy and paste the table and click analyze. You can submit multiple jobs at one time. **Important: You have to allow pop-ups for https://smart.ucsd.edu/classic. If your analysis is still running after 20 seconds, pop-up blockers are the most likely reason why your analysis failed.** The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 100 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon and open it with Excel.
 
 ## Troubleshooting
 
