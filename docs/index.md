@@ -10,7 +10,7 @@ SMART is a user-friendly, AI-based dereplication and analysis tool that uses 2D 
 
 **Q:** Is the data I upload to analyze publicly visible?
 
-**A:** Data you upload to analyze at SMART will remain private unless you explicitly make it public. The way to make your data public are to add individual annotated HSQC data to SMART database (Moliverse).
+**A:** Data you upload to analyze at SMART will remain private unless you explicitly make it public. The way to make your data public are to add individual annotated HSQC data to SMART database (Moliverse). See also the tab 'Contributing to SMART'.
 
 **Q:** Will HSQC data that I create be public by default?
 
