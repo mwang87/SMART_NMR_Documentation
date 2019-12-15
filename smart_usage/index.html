@@ -641,13 +641,16 @@ Now each peak should be annotated with two numbers separated by comma (1H, 13C c
 </table>
 <h3 id="supported-formats-at-smart">Supported Formats at SMART</h3>
 <p>SMART supports CSV formats for analysis. You can check your csv file by opening it with text editors such as wordpad or notepad. Your table should appear like this:</p>
-<pre><code>1H,13C
-1.09,14.3
-2.21,22.2
-3.41,56.9
-7.21,128.6
-7.29,123.4
-</code></pre>
+<p>'''
+{
+    1H,13C
+    1.09,14.3
+    2.21,22.2
+    3.41,56.9
+    7.21,128.6
+    7.29,123.4
+}
+'''</p>
 <h3 id="submit-csv-file-for-smart-analysis">Submit CSV file for SMART Analysis</h3>
 <p>After the .csv file is ready, simply upload it to the first window by drag&amp;drop or copy and paste the table. You can submit multiple jobs at one time. <strong>Important: You have to allow pop-ups for https://smart.ucsd.edu/classic. If your analysis is still running after 20 seconds, pop-up blockers are the most likely reason why your analysis failed.</strong> The result will show up in the next webpage as images with chemical structures, compound names, similarity scores, and molecular weights. The Top 100 hits are ranked by similarity scores. You can download the result by clicking the “download results” icon and open it with Excel.</p>
 <h2 id="troubleshooting">Troubleshooting</h2>
