@@ -104,8 +104,8 @@ Yes you can :) You can open the downloaded results with any text editor (Excel, 
 
 **Results Incorrect**
 
-The SMART is a very young project. It will become more and more accurate the more spectra you contribute to the Moliverse (see Contribute to SMART).
-- If your results show strange suggestions and all of the have a cosine score of 1.0 you probably switched the columns. PLease be sure that your first column as proton shifts (1H) and your second column has carbon shifts (13C) each 1H-13C pair separated by a comma.
+The SMART is still at its early stage of development. It will become more and more accurate the more spectra you contribute to the Moliverse (see Contribute to SMART).
+- If your results show strange suggestions and all of the have a cosine score of 1.0 you probably have switched the columns. Please be sure that your first column has proton shifts (1H) and your second column has carbon shifts (13C), where each 1H-13C pair is separated by a comma.
 
 ## Visualize your result(s) in the 3D cluster space (Moliverse)
 
