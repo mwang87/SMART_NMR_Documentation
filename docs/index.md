@@ -4,6 +4,7 @@ SMART (Small Molecule Accurate Recognition Technology) is the next generation of
 
 SMART is a user-friendly, AI-based dereplication and analysis tool that uses 2D NMR data to rapidly associate newly isolated NPs with their known analogues. SMART has been designed to mimic the normal path of experiential learning in that additional 2D NMR spectral inputs can be used to enrich its database and improve its performance. In short, SMART aims to become an experienced associate to natural products researchers as well as other classes of organic chemists.
 
+
 # Frequently asked Questions
 
 ## Data Privacy
@@ -31,6 +32,7 @@ SMART is a user-friendly, AI-based dereplication and analysis tool that uses 2D 
 ## Browser Support
 
 We officially test on the latest Chrome browser. Other browsers, e.g. Firefox, Internet Explorer, Opera, Edge, are not officially supported but likely will not have any issues with SMART 2.0.
+
 
 # Acknowledgements
 
