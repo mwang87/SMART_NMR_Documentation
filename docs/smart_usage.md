@@ -106,6 +106,7 @@ Yes you can :) You can open the downloaded results with any text editor (Excel, 
 
 The SMART is still at its early stage of development. It will become more and more accurate the more spectra you contribute to the Moliverse (see Contribute to SMART).
 - If your results show strange suggestions and all of the have a cosine score of 1.0 you probably have switched the columns. Please be sure that your first column has proton shifts (1H) and your second column has carbon shifts (13C), where each 1H-13C pair is separated by a comma.
+- If your CSV file won't show exactly two decimals for 1H or exactly single digits for 13C, you can mannual change the last digit from 0 to 1. E.g., you can change 7.30 to 7.31. Slight variation of the last digit won't affect your test result.
 
 ## Visualize your result(s) in the 3D cluster space (Moliverse)
 
