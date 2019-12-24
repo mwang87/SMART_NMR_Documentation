@@ -106,7 +106,7 @@ Yes you can :) You can open the downloaded results with any text editor (Excel, 
 
 The SMART is still at its early stage of development. It will become more and more accurate the more spectra you contribute to the Moliverse (see Contribute to SMART).
 - If your results show strange suggestions and all of the have a cosine score of 1.0 you probably have switched the columns. Please be sure that your first column has proton shifts (1H) and your second column has carbon shifts (13C), where each 1H-13C pair is separated by a comma.
-- If your CSV file won't show exactly two decimals for 1H or exactly single digits for 13C, you can mannual change the last digit from 0 to 1. E.g., you can change 7.30 to 7.31. Slight variation of the last digit won't affect your test result.
+- If your CSV file won't show exactly two decimals for 1H, or exactly a single digit for 13C, you can mannually change the last digit of the chemical shift from 0 to 1. E.g., change 7.30 to 7.31. Slight variation of the last digit won't affect your test result.
 
 ## Visualize your result(s) in the 3D cluster space (Moliverse)
 
@@ -127,7 +127,7 @@ If you have any questions about how to use SMART please first ask the community 
 
 To reference the system please cite the papers listed below.
 
-1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243. DOI:10.1038/s41598-017-13923-x
+1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.  [DOI:10.1038/s41598-017-13923-x](https://doi.org/10.1038/s41598-017-13923-x)
 
 2. Coming soon.
 
