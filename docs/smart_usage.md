@@ -117,7 +117,7 @@ Please click the "Embed in the Moliverse" bar in the upper right side of the res
 
 ## Visualize the 3D cluster space (Moliverse) with a VR headset
 
-Please click [here](https://youtu.be/Pgfw-90t1t0) to watch the VR movie. The VR software will be delivered soon!
+Please click [Video_1](https://youtu.be/Pgfw-90t1t0) and [Video_2](https://youtu.be/2qM_kFf-SRo) to watch the VR movie. The VR software will be delivered soon!
 
 ## Contact
 
