@@ -115,7 +115,7 @@ Please click the "Embed in the Moliverse" bar in the upper right side of the res
 - To better observe the clustering effect, please click UMAP or T-SNE tabs in the lower left window. The clusters will organize themselves in real-time, clustering more similar compounds in close proximity and more dissimilar compounds apart from each other.
 - Further you can access and enjoy the whole 'Moliverse' under https://smart.ucsd.edu/classic (click on 'Explore Moliverse')
 
-## Visualize the 3D cluster space (Moliverse) with a VR headset
+## Visualize the 3D cluster space (Moliverse) with VR devices
 
 Please click [Video_1](https://youtu.be/Pgfw-90t1t0) and [Video_2](https://youtu.be/2qM_kFf-SRo) to watch the VR movie. The VR software will be delivered soon!
 
