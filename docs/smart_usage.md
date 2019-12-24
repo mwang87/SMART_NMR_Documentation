@@ -125,9 +125,9 @@ If you have any questions about how to use SMART please first ask the community 
 
 ## References
 
-To reference the system please citing the papers listed below.
+To reference the system please cite the papers listed below.
 
-1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.
+1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243. DOI:10.1038/s41598-017-13923-x
 
 2. Coming soon.
 
