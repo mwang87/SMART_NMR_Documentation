@@ -119,6 +119,10 @@ Please click the "Embed in the Moliverse" bar in the upper right side of the res
 
 Please click [Video_1](https://youtu.be/Pgfw-90t1t0) and [Video_2](https://youtu.be/2qM_kFf-SRo) to watch the VR movie. The VR software will be delivered soon!
 
+[![VIDEO_1](http://img.youtube.com/vi/Pgfw-90t1t0/0.jpg)](http://www.youtube.com/watch?v=Pgfw-90t1t0 "Small-molecule Interactive Mapping Applications")
+
+[![VIDEO_2](http://img.youtube.com/vi/2qM_kFf-SRo/0.jpg)](http://www.youtube.com/watch?v=2qM_kFf-SRo "Into the Moliverse")
+
 ## Contact
 
 If you have any questions about how to use SMART please first ask the community at the SMART forum located here: [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can.
