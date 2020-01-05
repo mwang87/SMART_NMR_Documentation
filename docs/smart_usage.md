@@ -117,11 +117,13 @@ Please click the "Embed in the Moliverse" bar in the upper right side of the res
 
 ## Visualize the 3D cluster space (Moliverse) with VR devices
 
-Please click [Video_1](https://youtu.be/Pgfw-90t1t0) and [Video_2](https://youtu.be/2qM_kFf-SRo) to watch the VR movie. The VR software will be delivered soon!
+Please click [Video_1](https://youtu.be/Pgfw-90t1t0), [Video_2](https://youtu.be/2qM_kFf-SRo) and [Video_3](https://www.youtube.com/watch?v=v_c-Z1a5-KU) to watch the VR movie. The VR software will be delivered soon!
 
 [![VIDEO_1](http://img.youtube.com/vi/Pgfw-90t1t0/0.jpg)](http://www.youtube.com/watch?v=Pgfw-90t1t0 "Small-molecule Interactive Mapping Applications")
 
 [![VIDEO_2](http://img.youtube.com/vi/2qM_kFf-SRo/0.jpg)](http://www.youtube.com/watch?v=2qM_kFf-SRo "Into the Moliverse")
+
+[![VIDEO_3](http://img.youtube.com/vi/v_c-Z1a5-KU/0.jpg)](http://www.youtube.com/watch?v=v_c-Z1a5-KU "The Moliverse, A Digital Frontier to Reshape Natural Products Research")
 
 ## Contact
 
