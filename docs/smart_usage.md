@@ -127,7 +127,7 @@ Please click [Video_1](https://youtu.be/Pgfw-90t1t0), [Video_2](https://youtu.be
 
 ## Contact
 
-If you have any questions about how to use SMART please first ask the community at the SMART forum located here: [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can. If you woud like to access our to be online SMART 3.0 version, please email Hyunwoo Kim (hwkim at-sign ucsd dot edu) for off-line trials.
+If you have any questions about how to use SMART please first ask the community at the SMART forum located here: [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can. If you woud like to access our to-be-online SMART 3.0, please email Hyunwoo Kim (hwkim at-sign ucsd dot edu) for off-line trials.
 
 ## References
 
