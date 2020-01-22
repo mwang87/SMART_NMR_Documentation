@@ -49,6 +49,7 @@ Names appear in alphabetic order.
 | Garrison  |    W.    | Cottrell      |
 | Pieter    |    C.    | Dorrestein    |
 | Brendan   |    M.    | Duggan        |
+| Joseph    |          | Egan          |
 | Erik      |    C.    | Gerwick       |
 | Lena      |          | Gerwick       |
 | William   |    H.    | Gerwick       |
