@@ -43,7 +43,7 @@ Please download data submission package [here](https://tinyurl.com/vee67qk). Aft
 
 ## References, Q&A
 
-To reference the system please citing the papers listed below. To ask questions, please post on the user [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can.
+To reference the system please cite the papers listed below. To ask questions, please post on the user [forum](https://groups.google.com/forum/#!forum/smartnmr). We will respond you as soon as we can.
 
 1. Zhang C*, Idelbayev Y*, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243. [DOI: 10.1038/s41598-017-13923-x](https://doi.org/10.1038/s41598-017-13923-x) *These authors contributed equally to this work.
 
