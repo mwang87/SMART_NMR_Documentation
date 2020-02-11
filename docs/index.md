@@ -43,6 +43,7 @@ Names appear in alphabetic order.
 |-------------|:--------:|-------------------------|
 | Kelsey      |    L.    | Alexander               |
 | Nuno        |          | Bandeira                |
+| Wout        |          | Bittremieux             |
 | Antoine     |    R.    | Blosse                  |
 | Andrés      | Mauricio | Caraballo-Rodriguez     |
 | Mitchell    |          | Christy                 |
