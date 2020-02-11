@@ -135,6 +135,7 @@ To reference the system please cite the papers listed below.
 
 1. Zhang C, Idelbayev Y, Roberts N, Tao Y, Nannapaneni Y, Duggan BM, Min J, Lin EC, Gerwick EC, Cottrell GW, Gerwick WH. Small Molecule Accurate Recognition Technology (SMART) to Enhance Natural Products Research. Scientific reports. 2017, 7(1), 14243.  [DOI: 10.1038/s41598-017-13923-x](https://doi.org/10.1038/s41598-017-13923-x)
 
-2. Coming soon.
+2. Reher R*, Kim H*, Zhang C*, Mao HH, Wang M, Nothias LF, Caraballo-Rodriguez AM, Glukhov E, Teke B, Leao T, Alexander KL, Duggan BM, Van Everbroeck EL, Dorrestein PC, Cottrell GW, Gerwick WH. “A Convolutional Neural Network-based approach for the Rapid Characterization of Molecularly Diverse Natural Products“
+* These authors contributed equally to this work. (J. Am. Chem. Soc., manuscript accepted)
 
 <a href="https://smart.ucsd.edu/classic" target="_blank"><img src="https://user-images.githubusercontent.com/20175888/70386594-ecd8dc00-194e-11ea-8378-ba1929e90ae4.png" alt="SMART_LOGO" title="USE SMART" align="right" width="250" height="100" border="10" /></a>
