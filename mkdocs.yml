@@ -5,6 +5,7 @@ nav:
     - SMART Introduction: index.md
     - Using SMART: smart_usage.md
     - Contributing to SMART: smart_contribution.md
+    - API: api.md
 theme:
     name: material
 google_analytics: ['UA-8412213-5', 'ccms-ucsd.github.io']
