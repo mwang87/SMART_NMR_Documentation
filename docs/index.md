@@ -39,46 +39,46 @@ We officially test on the latest Chrome browser. Other browsers, e.g. Firefox, I
 We sincerely thank the following people who have done great work to make the idea of web-based SMART become true. You guys are awesome. 
 Names appear in alphabetic order.
 
-| First     |  Middle  | Last          |
-|-----------|:--------:|---------------|
-| Kelsey    |    L.    | Alexander     |
-| Nuno      |          | Bandeira      |
-| Antoine   |    R.    | Blosse        |
-| Andrés    | Mauricio | Caraballo     |
-| Mitchell  |          | Christy       |
-| Garrison  |    W.    | Cottrell      |
-| Pieter    |    C.    | Dorrestein    |
-| Brendan   |    M.    | Duggan        |
-| Joseph    |          | Egan          |
-| Erik      |    C.    | Gerwick       |
-| Lena      |          | Gerwick       |
-| William   |    H.    | Gerwick       |
-| Michael   |    K.    | Gilson        |
-| Jenny     |          | Hamer         |
-| Yerlan    |          | Idelbayev     |
-| Hyunwoo   |          | Kim           |
-| Preston   |    B.    | Landon        |
-| Aaron     |          | Landon        |
-| Tiago     |    F.    | Leao          |
-| Bettina   |          | Lehman        |
-| Eugene    |    C.    | Lin           |
-| Zheng     |          | Long          |
-| Huanru    |   Henry  | Mao           |
-| Jie       |          | Min           |
-| Anthony   |          | Mrse          |
-| Ben       |    C.    | Naman         |
-| Yashwanth |          | Nannapaneni   |
-| Louis     |   Felix  | Nothias       |
-| Poornav   |    S.    | Purushothama  |
-| Siddarth  |          | Ravichandran  |
-| Raphael   |          | Reher         |
-| Nicholas  |          | Roberts       |
-| Yiwen     |          | Tao           |
-| Yoshinori |          | Uekusa        |
-| Ezra      |          | Van Everbroeck|
-| Vishal    |    T.    | Vasudevan     |
-| Mingxun   |          | Wang          |
-| Chen      |          | Zhang         |
-| Jianping  |          | Zhao          |
+| First       |  Middle  | Last                    |
+|-------------|:--------:|-------------------------|
+| Kelsey      |    L.    | Alexander               |
+| Nuno        |          | Bandeira                |
+| Antoine     |    R.    | Blosse                  |
+| Andrés      | Mauricio | Caraballo-Rodriguez     |
+| Mitchell    |          | Christy                 |
+| Garrison    |    W.    | Cottrell                |
+| Pieter      |    C.    | Dorrestein              |
+| Brendan     |    M.    | Duggan                  |
+| Joseph      |          | Egan                    |
+| Erik        |    C.    | Gerwick                 |
+| Lena        |          | Gerwick                 |
+| William     |    H.    | Gerwick                 |
+| Michael     |    K.    | Gilson                  |
+| Jenny       |          | Hamer                   |
+| Yerlan      |          | Idelbayev               |
+| Hyunwoo     |          | Kim                     |
+| Preston     |    B.    | Landon                  |
+| Aaron       |          | Landon                  |
+| Tiago       |    F.    | Leao                    |
+| Bettina     |          | Lehman                  |
+| Eugene      |    C.    | Lin                     |
+| Zheng       |          | Long                    |
+| Huanru      |   Henry  | Mao                     |
+| Jie         |          | Min                     |
+| Anthony     |          | Mrse                    |
+| Ben         |    C.    | Naman                   |
+| Yashwanth   |          | Nannapaneni             |
+| Louis-Félix |          | Nothias                 |
+| Poornav     |    S.    | Purushothama            |
+| Siddarth    |          | Ravichandran            |
+| Raphael     |          | Reher                   |
+| Nicholas    |    C.    | Roberts                 |
+| Yiwen       |          | Tao                     |
+| Yoshinori   |          | Uekusa                  |
+| Ezra        |    L.    | Van Everbroeck          |
+| Vishal      |    T.    | Vasudevan               |
+| Mingxun     |          | Wang                    |
+| Chen        |          | Zhang                   |
+| Jianping    |          | Zhao                    |
 
 <a href="https://smart.ucsd.edu/classic" target="_blank"><img src="https://user-images.githubusercontent.com/20175888/70386594-ecd8dc00-194e-11ea-8378-ba1929e90ae4.png" alt="SMART_LOGO" title="USE SMART" align="right" width="250" height="100" border="10" /></a>
