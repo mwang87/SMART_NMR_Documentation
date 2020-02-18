@@ -79,6 +79,7 @@ Names appear in alphabetic order.
 | Ezra        |    L.    | Van Everbroeck          |
 | Vishal      |    T.    | Vasudevan               |
 | Mingxun     |          | Wang                    |
+| Yiran       |          | Xu                      |
 | Chen        |          | Zhang                   |
 | Jianping    |          | Zhao                    |
 
