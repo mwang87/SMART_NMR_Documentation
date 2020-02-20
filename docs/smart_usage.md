@@ -51,7 +51,7 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
 
 ## Input Data Formatting
 
-Please prepare your NMR peak lists of each compound using Excel or preferably notepad/wordpad and save the NMR table of each compound as a comma-separated value (.csv) file. If you are using Microsoft Excel, this can be done by click "save as" and then choose the two file types. Please always place 1H data in the first column and their corresponding 13C data in the second column. The first row will be left for strings “1H” and “13C” as table head. Please strictly keep 1H shifts in 2 decimals and 13C shifts in a single decimal only. You can name the .csv file with any name that your operating system accepts.
+Please prepare your NMR peak lists of each compound using Excel or preferably notepad/wordpad and save the NMR table of each compound as a comma-separated value (.csv) file. If you are using Microsoft Excel, this can be done by click "save as" and then choose the two file types. If you have a european version of Excel you might have to change your 'region settings' to 'United States' in order to get the desired 'comma' instead of a 'semicolon'. Please always place 1H data in the first column and their corresponding 13C data in the second column. The first row will be left for strings “1H” and “13C” as table head. Please strictly keep 1H shifts in 2 decimals and 13C shifts in a single decimal only. You can name the .csv file with any name that your operating system accepts.
 
 |     1H     |     13C     |
 |:----------:|:-----------:|
@@ -73,7 +73,7 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 | 3.40       | 43.2        | 
 
 ### Supported Formats at SMART
-SMART supports CSV formats for analysis. You can check your csv file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
+SMART supports CSV formats for analysis. You can check your csv file by opening it with text editors such as wordpad or notepad. If you have a european version of Microsoft Excel you might have to change your 'region settings' to 'United States' in order to get the desired 'comma' instead of a 'semicolon'. Your table should appear like this:
 
     1H,13C
     1.09,14.3
