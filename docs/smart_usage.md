@@ -33,7 +33,7 @@
     - type in column A1: '1H' and in column B1: '13C'
     - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX         ![image](https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png)
     - reduce column B (13C values) from two decimals to one (for example 128.22 --> **128.2**)
-    - mark your table + header (1H,13C) and save as comma-separated file (.csv).
+    - mark your table + header (1H,13C) and save as comma-separated file (.csv). If you have a european version of Excel you might have       to change your 'region settings' to 'United States' in order to get the desired 'comma' instead of a 'semicolon'
 
 **You are ready to use SMART 2.0 Analysis! :)**
 
