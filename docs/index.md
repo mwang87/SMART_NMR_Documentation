@@ -51,7 +51,7 @@ Names appear in alphabetic order.
 | Alexander   |          | Dagman                  |
 | Pieter      |    C.    | Dorrestein              |
 | Brendan     |    M.    | Duggan                  |
-| Joseph      |          | Egan                    |
+| Joseph      |    M.    | Egan                    |
 | Erik        |    C.    | Gerwick                 |
 | Lena        |          | Gerwick                 |
 | William     |    H.    | Gerwick                 |
