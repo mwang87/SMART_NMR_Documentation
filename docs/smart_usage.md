@@ -265,7 +265,7 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 #PEAKLIST_DIMENSION 2
 #2018-08-30T12:25:26  Jmegan
 #DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
