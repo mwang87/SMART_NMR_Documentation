@@ -94,11 +94,11 @@ SMART supports CSV and TSV formats for analysis. You can check your .csv or .tsv
 ### Supported Formats at SMART (TopSpin)
 SMART supports peaklists created with TopSpin. You can check your file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:01:17  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:01:17  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -106,11 +106,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:03:12  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:03:12  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -118,23 +118,22 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:03:55  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:03:55  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
      2  1312.7  1363.8            4.0309           64.8258       528833.94       CLADINOSE POSITION 5
 
 #--------------------------------------------------------------------------
-
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:06:13  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:06:13  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -142,11 +141,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:06:50  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:06:50  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -154,11 +153,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:07:16  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:07:16  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -166,11 +165,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:08:43  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:08:43  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -178,11 +177,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:10:39  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:10:39  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -190,11 +189,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:11:37  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:11:37  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -202,11 +201,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:12:27  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:12:27  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -214,11 +213,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:13:10  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:13:10  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -226,11 +225,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:13:34  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:13:34  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -238,11 +237,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:14:10  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-29T17:14:10  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -250,11 +249,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T12:24:31  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T12:24:31  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -262,10 +261,10 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T12:25:26  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T12:25:26  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
 # Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
@@ -275,11 +274,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T12:33:44  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T12:33:44  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -291,11 +290,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T12:35:34  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T12:35:34  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -303,11 +302,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T12:37:01  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T12:37:01  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -316,11 +315,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T12:43:09  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T12:43:09  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -329,11 +328,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T12:45:51  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T12:45:51  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -342,11 +341,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T13:21:26  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T13:21:26  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
@@ -354,11 +353,11 @@ SMART supports peaklists created with TopSpin. You can check your file by openin
 
 #--------------------------------------------------------------------------
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-30T13:25:13  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+#PEAKLIST_VERSION 1.1
+#PEAKLIST_DIMENSION 2
+#2018-08-30T13:25:13  Jmegan
+#DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+#Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
