@@ -64,6 +64,7 @@ Names appear in alphabetic order.
 | Tiago       |    F.    | Leao                    |
 | Bettina     |          | Lehman                  |
 | Eugene      |    C.    | Lin                     |
+| Roger       |    G.    | Linington               |
 | Zheng       |          | Long                    |
 | Huanru      |   Henry  | Mao                     |
 | Jie         |          | Min                     |
