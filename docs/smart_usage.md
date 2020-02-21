@@ -72,7 +72,7 @@ In the NMR table files, wherever there are diastereotopic protons on a methylene
 | 3.12       | 43.2        |
 | 3.40       | 43.2        | 
 
-### Supported Formats at SMART (MestreNova)
+### Supported Formats for SMART Analysis (MestreNova)
 SMART supports CSV and TSV formats for analysis. You can check your .csv or .tsv file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
 
     1H,13C      
@@ -91,7 +91,7 @@ SMART supports CSV and TSV formats for analysis. You can check your .csv or .tsv
     7.21	128.6
     7.29	123.4
 
-### Supported Formats at SMART (TopSpin)
+### Supported Formats for SMART Analysis (TopSpin)
 SMART supports peaklists created with TopSpin. You can check your file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
 
 #PEAKLIST_VERSION 1.1
