@@ -48,6 +48,7 @@ Names appear in alphabetic order.
 | Andrés      | Mauricio | Caraballo-Rodriguez     |
 | Mitchell    |          | Christy                 |
 | Garrison    |    W.    | Cottrell                |
+| Alexander   |          | Dagman                  |
 | Pieter      |    C.    | Dorrestein              |
 | Brendan     |    M.    | Duggan                  |
 | Joseph      |          | Egan                    |
