@@ -94,11 +94,11 @@ SMART supports CSV and TSV formats for analysis. You can check your .csv or .tsv
 ### Supported Formats for SMART Analysis (TopSpin)
 SMART supports peaklists created with TopSpin. After finishing the second Fourier-transform of the collected FID data of your HSQC experiment, type and execute "pp" in the command line, and then check the box "Export results as XWinNMR peak list". The peaklist file should appear in the  "/nmrdata/pdata/1" or similar directory. You can check your file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
 
-# PEAKLIST_VERSION 1.1
-# PEAKLIST_DIMENSION 2
-# 2018-08-29T17:01:17  Jmegan
-# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-# Manually picked peaks
+'#' PEAKLIST_VERSION 1.1
+'#' PEAKLIST_DIMENSION 2
+'#' 2018-08-29T17:01:17  Jmegan
+'#' DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+'#' Manually picked peaks
 
      #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
