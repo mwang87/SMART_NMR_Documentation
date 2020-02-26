@@ -673,12 +673,13 @@ or for .tsv:
 </code></pre>
 <h3 id="supported-formats-for-smart-analysis-topspin">Supported Formats for SMART Analysis (TopSpin)</h3>
 <p>SMART supports peaklists created with TopSpin. After finishing the second Fourier-transform of the collected FID data of your HSQC experiment, type and execute "pp" in the command line, and then check the box "Export results as XWinNMR peak list". The peaklist file should appear in the  "/nmrdata/pdata/1" or similar directory. You can check your file by opening it with text editors such as wordpad or notepad. Your table should appear like this:</p>
-<p>'#' PEAKLIST_VERSION 1.1
-'#' PEAKLIST_DIMENSION 2
-'#' 2018-08-29T17:01:17  Jmegan
-'#' DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
-'#' Manually picked peaks</p>
-<pre><code> #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
+<pre><code># PEAKLIST_VERSION 1.1
+# PEAKLIST_DIMENSION 2
+# 2018-08-29T17:01:17  Jmegan
+# DU=ACTIVE_Directory_Here, USER=USER_Listed_Here, NAME=HND_Erythromycin, EXPNO=13, PROCNO=1
+# Manually picked peaks
+
+ #     F2#     F1#           F2[ppm]           F1[ppm]       Intensity       Annotation
 
  0  1210.0  1060.1            4.7338           95.9132       709852.72       CLADINOSE POSITION 1
  1  1264.2   999.1            4.3624          102.1460       499402.69       DESOAMINE POS 1
