@@ -18,8 +18,8 @@
     Now each peak should be annotated with two numbers separated by comma (1H, 13C chemical shifts)
     ![HSQC_annotation](https://user-images.githubusercontent.com/57916837/70353559-7939b080-1822-11ea-84ea-87cc07946574.png)
 4. Generate NMR table from annotated HSQC spectrum
-    - click on 'Analysis' tab
-    - click on 'NMR Peaks Table'
+    - click on 'Analysis' tab - 'NMR Peaks Table'
+      (if you are using older version of MestreNova, it would be on 'View' - 'Tables' - 'Peaks'
     - move the f2 column to the left of the f1 column
     - copy all (ctrl+A)
     - click on 'copy peaks' and choose 'copy table'
