@@ -1,5 +1,5 @@
 
-## How to process a raw HSQC spectrum to a NMR table with MestreNova
+## How to process a raw HSQC spectrum to a NMR table with MestreNova (version 12 and newer)
 
 1. Open your raw HSQC spectrum in MestreNova
     - Drag&Drop your HSQC file (for Bruker data you find your spectrum under: pdata/1/2rr)
@@ -93,7 +93,6 @@ SMART supports CSV and TSV formats for analysis. You can check your .csv or .tsv
 
 ### Supported Formats for SMART Analysis (TopSpin)
 SMART supports peaklists created with TopSpin. After finishing the second Fourier-transform of the collected FID data of your HSQC experiment, type and execute "pp" in the command line, and then check the box "Export results as XWinNMR peak list". The peaklist file should appear in the  "/nmrdata/pdata/1" or similar directory. You can check your file by opening it with text editors such as wordpad or notepad. Your table should appear like this:
-
 
 # PEAKLIST_VERSION 1.1
 # PEAKLIST_DIMENSION 2
