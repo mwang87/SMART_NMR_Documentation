@@ -1,4 +1,12 @@
+## User's Guide for SMART 2.0 Analysis
 
+Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smart.ucsd.edu/classic).
+
+- The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. 
+- Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.
+- One SMART 2.0 analysis should take < 20 seconds (if still 'analyzing' double check your input).
+- You can run multiple (up to 10) analyses at once.
+- If your results are dissatisfying please try to process your data again manually (go to **How to process a raw HSQC spectrum to a NMR table** and then delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) 
 ## How to process a raw HSQC spectrum to a NMR table with MestreNova (version 12 and newer)
 
 1. Open your raw HSQC spectrum in MestreNova
@@ -38,16 +46,6 @@
 **You are ready to use SMART 2.0 Analysis! :)**
 
 **Please feel free to play around with the processing parameters such as including/excluding noise signals or signals from other minor compounds in case of mixtures or explore the differences of SMART results when referencing your spectra compared to tables without referencing. Overall SMART is designed to be very robust towards any of these changes as its training is not only based on the absolute position of the peaks, but the relative position of each peak towards every other peak (see also References 1 + 2).**
-
-## User's Guide for SMART 2.0 Analysis
-
-Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smart.ucsd.edu/classic).
-
-- The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. 
-- Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.
-- One SMART 2.0 analysis should take < 20 seconds (if still 'analyzing' double check your input).
-- You can run multiple (up to 10) analyses at once.
-- If your results are dissatisfying please try to process your data again manually (go back to **How to process a raw HSQC spectrum to a NMR table** and then delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) 
 
 ## Input Data Formatting using MestreNova
 
