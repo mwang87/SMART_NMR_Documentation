@@ -22,11 +22,12 @@
       (if you are using classic theme or old version of MestreNova, it would be on 'View' - 'Tables' - 'Peaks'
     - move the f2 column to the left of the f1 column
     - Click on 'Setup Report' - 'Setup Table'
-    ![HSQC_annotation_to_table](https://user-images.githubusercontent.com/57916837/70353982-6a9fc900-1823-11ea-8704-7458b0a7f783.png)
+    ![SMART1](https://user-images.githubusercontent.com/41205498/75512744-4c231700-59a7-11ea-9262-90987c9f4ace.png)
     - In the 'Visible name' row, revise 'f2(ppm)' and 'f1 (ppm)' to '1H' and '13C' respectively.
     - Among the 'Visible' row, turn every checkbox off except 'f2 (ppm)' and 'f1 (ppm)'
     - In the 'Decimals' row, change the value of 'f1 (ppm)' from 2 to 1.
     - Inside the 'Report' box, Click all the checkboxs off
+    ![MNova_setup_for_SMART](https://user-images.githubusercontent.com/41205498/75512990-20ecf780-59a8-11ea-874c-8aa7e1ab83b8.png)
     - Click 'OK' button. This setup will be saved as default
     - Click on 'copy peaks' and choose 'copy table'
 
