@@ -1,5 +1,5 @@
 
-## How to process a raw HSQC spectrum to a NMR table with MestreNova (version 12 and newer)
+## How to process a raw HSQC spectrum to a NMR table with MestreNova
 
 1. Open your raw HSQC spectrum in MestreNova
     - Drag&Drop your HSQC file (for Bruker data you find your spectrum under: pdata/1/2rr)
@@ -19,20 +19,21 @@
     ![HSQC_annotation](https://user-images.githubusercontent.com/57916837/70353559-7939b080-1822-11ea-84ea-87cc07946574.png)
 4. Generate NMR table from annotated HSQC spectrum
     - click on 'Analysis' tab - 'NMR Peaks Table'
-      (if you are using older version of MestreNova, it would be on 'View' - 'Tables' - 'Peaks'
+      (if you are using classic theme or old version of MestreNova, it would be on 'View' - 'Tables' - 'Peaks'
     - move the f2 column to the left of the f1 column
-    - copy all (ctrl+A)
-    - click on 'copy peaks' and choose 'copy table'
+    - Click on 'Setup Report' - 'Setup Table'
     ![HSQC_annotation_to_table](https://user-images.githubusercontent.com/57916837/70353982-6a9fc900-1823-11ea-8704-7458b0a7f783.png)
+    - In the 'Visible name' row, revise 'f2(ppm)' and 'f1 (ppm)' to '1H' and '13C' respectively.
+    - Among the 'Visible' row, turn every checkbox off except 'f2 (ppm)' and 'f1 (ppm)'
+    - In the 'Decimals' row, change the value of 'f1 (ppm)' from 2 to 1.
+    - Inside the 'Report' box, Click all the checkboxs off
+    - Click 'OK' button. This setup will be saved as default
+    - Click on 'copy peaks' and choose 'copy table'
+
 5. Generate .csv file for SMART Analysis
     - open Excel or similar program and paste the table (ctrl+V)
-    ![image](https://user-images.githubusercontent.com/57916837/70354067-958a1d00-1823-11ea-93da-9eaf03f11d2f.png)
-    - align table in such a way that all values of f2 dimension = 1H are in one column and all values of the f1 dimension = 13C are in         another column next to it
-    ![image](https://user-images.githubusercontent.com/57916837/70354383-409ad680-1824-11ea-8847-7eaa167779be.png)
-    - open a new excel document (ctrl+N)
-    - type in column A1: '1H' and in column B1: '13C'
-    - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX         ![image](https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png)
-    - reduce column B (13C values) from two decimals to one (for example 128.22 --> **128.2**)
+    - align the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX
+    ![image](https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png)
     - mark your table + header (1H,13C) and save as comma-separated file (.csv).
 
 **You are ready to use SMART 2.0 Analysis! :)**
