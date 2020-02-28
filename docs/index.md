@@ -58,6 +58,7 @@ Names appear in alphabetic order.
 | Michael     |    K.    | Gilson                  |
 | Jenny       |          | Hamer                   |
 | Yerlan      |          | Idelbayev               |
+| Kyobin      |          | Kang                    |
 | Hyunwoo     |          | Kim                     |
 | Preston     |    B.    | Landon                  |
 | Aaron       |          | Landon                  |
