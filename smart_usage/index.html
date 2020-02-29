@@ -534,7 +534,7 @@
 <ul>
 <li>The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. </li>
 <li>Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.</li>
-<li>One SMART 2.0 analysis should take &lt; 20 seconds (if still 'analyzing' double check your input).</li>
+<li>One SMART 2.0 analysis should take &lt; 20 seconds (if still 'analyzing' double check your input, see chapters <strong>Supported Formats for SMART Analysis</strong> and <strong>Troubleshooting</strong>).</li>
 <li>You can run multiple (up to 10) analyses at once.</li>
 <li>If your results are dissatisfying please try to process your data again manually (go to <strong>How to process a raw HSQC spectrum to a NMR table</strong> and then delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) </li>
 </ul>
@@ -720,7 +720,10 @@ or for .tsv:
 <p><strong>Failed Job</strong></p>
 <ol>
 <li>If your analysis is still running after 20 seconds, pop-up blockers are the most likely reason why your analysis failed. You have to allow pop-ups for https://smart.ucsd.edu/classic.</li>
-<li>The file format input is incorrect. Please make sure it is a supported file format for SMART (see Input Data Formatting)</li>
+<li>The file format input is incorrect. Please make sure it is a supported file format for SMART (see Input Data Formatting)
+When you enter the peak list as tab-separated or comma-separated table make sure that the first row is:
+1H,13C or 
+1H    13C, respectively. Do NOT include any additional spaces or " signs.</li>
 </ol>
 <p><strong>Downloaded Results file cannot be opened</strong></p>
 <p>Yes you can :) You can open the downloaded results with any text editor (Excel, Notepad, Wordpad). Just make a right-click on the file, click on 'open with' and then choose one of the former mentioned programs.</p>
