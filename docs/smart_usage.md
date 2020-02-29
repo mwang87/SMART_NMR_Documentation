@@ -4,7 +4,7 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
 
 - The current version of SMART 2.0 as of 11/25/2019 consists of 2D NMR spectra from 53,076 natural products. 
 - Before you start, please unblock any pop-up blockers in your web browser for smart.ucsd.edu website.
-- One SMART 2.0 analysis should take < 20 seconds (if still 'analyzing' double check your input).
+- One SMART 2.0 analysis should take < 20 seconds (if still 'analyzing' double check your input, see chapters **Supported Formats for SMART Analysis** and **Troubleshooting**).
 - You can run multiple (up to 10) analyses at once.
 - If your results are dissatisfying please try to process your data again manually (go to **How to process a raw HSQC spectrum to a NMR table** and then delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) 
 ## How to process a raw HSQC spectrum to a NMR table with MestreNova (version 12 and newer)
@@ -149,6 +149,9 @@ This section addresses some common issues with the analysis workflows at SMART. 
 
 1. If your analysis is still running after 20 seconds, pop-up blockers are the most likely reason why your analysis failed. You have to allow pop-ups for https://smart.ucsd.edu/classic.
 2. The file format input is incorrect. Please make sure it is a supported file format for SMART (see Input Data Formatting)
+When you enter the peak list as tab-separated or comma-separated table make sure that the first row is:
+1H,13C or 
+1H    13C, respectively. Do NOT include any additional spaces or " signs.
 
 **Downloaded Results file cannot be opened**
 
