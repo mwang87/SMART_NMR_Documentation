@@ -37,12 +37,12 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
     
 5a. Generate .csv file for SMART Analysis
     - open Excel or similar program and paste the table (ctrl+V)
-    - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX         ![image](https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png)
+    - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX     
     - mark your table + header (1H,13C) and save as comma-separated file (.csv).
-5b. Run SMART Analysis directly
-    - copy and paste the table (ctrl+V) directly
-    
 
+5b. Run SMART Analysis directly
+    - copy and paste the table (ctrl+V) directly to the peak list section of https://smart.ucsd.edu/classic and click on 'Analyze             entered peak list'
+    
 **You are ready to use SMART 2.0 Analysis! :)**
 
 **Please feel free to play around with the processing parameters such as including/excluding noise signals or signals from other minor compounds in case of mixtures or explore the differences of SMART results when referencing your spectra compared to tables without referencing. Overall SMART is designed to be very robust towards any of these changes as its training is not only based on the absolute position of the peaks, but the relative position of each peak towards every other peak (see also References 1 + 2).**
