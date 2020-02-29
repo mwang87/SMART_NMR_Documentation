@@ -566,24 +566,20 @@ Now each peak should be annotated with two numbers separated by comma (1H, 13C c
 <li>click on 'Analysis' tab</li>
 <li>click on 'NMR Peaks Table'</li>
 <li>move the f2 column to the left of the f1 column</li>
+<li>right click on table, setup report, setup table</li>
+<li>customize table by unchecking every value but for f2 (change visible name to 1H) and f1 (change visible name to 13C)</li>
+<li>change number of decimals for f1 to '1'</li>
 <li>copy all (ctrl+A)</li>
-<li>click on 'copy peaks' and choose 'copy table'
-<img alt="HSQC_annotation_to_table" src="https://user-images.githubusercontent.com/57916837/70353982-6a9fc900-1823-11ea-8704-7458b0a7f783.png" /></li>
-</ul>
-</li>
-<li>Generate .csv file for SMART Analysis<ul>
-<li>open Excel or similar program and paste the table (ctrl+V)
-<img alt="image" src="https://user-images.githubusercontent.com/57916837/70354067-958a1d00-1823-11ea-93da-9eaf03f11d2f.png" /></li>
-<li>align table in such a way that all values of f2 dimension = 1H are in one column and all values of the f1 dimension = 13C are in         another column next to it
-<img alt="image" src="https://user-images.githubusercontent.com/57916837/70354383-409ad680-1824-11ea-8847-7eaa167779be.png" /></li>
-<li>open a new excel document (ctrl+N)</li>
-<li>type in column A1: '1H' and in column B1: '13C'</li>
-<li>copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX         <img alt="image" src="https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png" /></li>
-<li>reduce column B (13C values) from two decimals to one (for example 128.22 --&gt; <strong>128.2</strong>)</li>
-<li>mark your table + header (1H,13C) and save as comma-separated file (.csv).</li>
+<li>click on 'copy peaks' and choose 'copy table'</li>
 </ul>
 </li>
 </ol>
+<p>5a. Generate .csv file for SMART Analysis
+    - open Excel or similar program and paste the table (ctrl+V)
+    - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX         <img alt="image" src="https://user-images.githubusercontent.com/57916837/70354216-e3068a00-1823-11ea-9ac9-cb51e5381091.png" />
+    - mark your table + header (1H,13C) and save as comma-separated file (.csv).
+5b. Run SMART Analysis directly
+    - copy and paste the table (ctrl+V) directly</p>
 <p><strong>You are ready to use SMART 2.0 Analysis! :)</strong></p>
 <p><strong>Please feel free to play around with the processing parameters such as including/excluding noise signals or signals from other minor compounds in case of mixtures or explore the differences of SMART results when referencing your spectra compared to tables without referencing. Overall SMART is designed to be very robust towards any of these changes as its training is not only based on the absolute position of the peaks, but the relative position of each peak towards every other peak (see also References 1 + 2).</strong></p>
 <h2 id="input-data-formatting-using-mestrenova">Input Data Formatting using MestreNova</h2>
