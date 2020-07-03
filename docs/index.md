@@ -36,6 +36,10 @@ We officially test on the latest Chrome browser. Other browsers, e.g. Firefox, I
 
 # Acknowledgements
 
+We acknowledge the use of Advanced Chemistry Development, Inc. for use of their HSQC predictor for calculating data in the SMART tool.
+
+We thank Dr. Kikuko Hayamizu for her efforts to create the free open CH-NMR-NP database distributed by JEOL, which was used to train the SMART 2.0.
+
 We sincerely thank the following people who have done great work to make the idea of web-based SMART become true. You guys are awesome. 
 Names appear in alphabetic order.
 
