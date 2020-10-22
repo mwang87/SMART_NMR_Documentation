@@ -56,6 +56,7 @@ Names appear in alphabetic order.
 | Pieter      |    C.    | Dorrestein              |
 | Brendan     |    M.    | Duggan                  |
 | Joseph      |    M.    | Egan                    |
+| Martha      |          | Gahl                    |
 | Erik        |    C.    | Gerwick                 |
 | Lena        |          | Gerwick                 |
 | William     |    H.    | Gerwick                 |
