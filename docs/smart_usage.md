@@ -9,7 +9,7 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
 - If your results are dissatisfying please try to process your data again manually (go to **How to process a raw HSQC spectrum to a NMR table** and then delete noise and duplicate annotations, add peaks missed by auto-peak picking etc.) 
 ## How to process a raw HSQC spectrum to a NMR table with MestreNova (version 12 and newer)
 
-1. Open your raw HSQC spectrum in MestreNova
+1. Open your raw HSQC spectrum in MestreNova (preferences: modern view)
     - Drag&Drop your HSQC file (for Bruker data you find your spectrum under: pdata/1/2rr)
     - Depending on purity and concentration of your sample and aquisition time your
       spectrum looks more or less clean and may need additional processing (see 2.)
