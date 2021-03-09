@@ -156,6 +156,7 @@ This section addresses some common issues with the analysis workflows at SMART. 
 When you enter the peak list as tab-separated or comma-separated table make sure that the first row is:
 1H,13C or 
 1H    13C, respectively. Do NOT include any additional spaces or " signs.
+Especially, if you copy&paste your table directly from MestreNova, apply one backslash to remove the additional space character that is imported with the NMR table
 
 **Downloaded Results file cannot be opened**
 
