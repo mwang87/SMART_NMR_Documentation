@@ -34,17 +34,16 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
     - change number of decimals for f1 to '1'
     - copy all (ctrl+A)
     - click on 'copy peaks' and choose 'copy table'
-    
 5a. Generate .csv file for SMART Analysis
     - open Excel or similar program and paste the table (ctrl+V)
-    - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX     
+    - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX
     - mark your table + header (1H,13C) and save as comma-separated file (.csv).
-
-5b. Run SMART Analysis directly
+    
+5b. Run SMART Analysis directly 
     1. copy and paste the table (ctrl+V) directly to the peak list section of https://smart.ucsd.edu/classic 
     2. Important: Apply one backslash to remove the additional space character that is imported with the NMR table
     3. Click on 'Analyze entered peak list'
-    ![SMART_important_backslash](https://user-images.githubusercontent.com/57916837/110534087-89020d80-80d3-11eb-9556-ee5cf973c3aa.png)
+ ![SMART_important_backslash](https://user-images.githubusercontent.com/57916837/110534087-89020d80-80d3-11eb-9556-ee5cf973c3aa.png)
 
 
     
