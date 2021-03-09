@@ -35,13 +35,14 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
     - copy all (ctrl+A)
     - click on 'copy peaks' and choose 'copy table'
 
-4. Generate NMR table from annotated HSQC spectrum
+5. a) Generate NMR table from annotated HSQC spectrum
     - open Excel or similar program and paste the table (ctrl+V)
     - copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX
     - mark your table + header (1H,13C) and save as comma-separated file (.csv).
  
+or
 
-4. Run SMART Analysis directly
+5. b) Run SMART Analysis directly
     - copy and paste the table (ctrl+V) directly to the peak list section of https://smart.ucsd.edu/classic
     - Important: Apply one backslash to remove the additional space character that is imported with the NMR table'
     - Click on 'Analyze entered peak list'
