@@ -41,7 +41,11 @@ Welcome to use the SMART 2.0 to test your compound(s) @ [SMART 2.0](https://smar
     - mark your table + header (1H,13C) and save as comma-separated file (.csv).
 
 5b. Run SMART Analysis directly
-    - copy and paste the table (ctrl+V) directly to the peak list section of https://smart.ucsd.edu/classic and click on 'Analyze             entered peak list'
+    1. copy and paste the table (ctrl+V) directly to the peak list section of https://smart.ucsd.edu/classic 
+    2. Important: Apply one backslash to remove the additional space character that is imported with the NMR table
+    3. Click on 'Analyze entered peak list'
+![SMART_important_backslash](https://user-images.githubusercontent.com/57916837/110533110-7f2bda80-80d2-11eb-9e79-ce350258fd62.png)
+
     
 **You are ready to use SMART 2.0 Analysis! :)**
 
