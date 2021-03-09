@@ -549,7 +549,9 @@ Now each peak should be annotated with two numbers separated by comma (1H, 13C c
 <img alt="HSQC_annotation" src="https://user-images.githubusercontent.com/57916837/70353559-7939b080-1822-11ea-84ea-87cc07946574.png" /></li>
 </ul>
 </li>
-<li>Generate NMR table from annotated HSQC spectrum<ul>
+<li>
+<p>Generate NMR table from annotated HSQC spectrum</p>
+<ul>
 <li>click on 'Analysis' tab</li>
 <li>click on 'NMR Peaks Table'</li>
 <li>move the f2 column to the left of the f1 column</li>
@@ -557,19 +559,27 @@ Now each peak should be annotated with two numbers separated by comma (1H, 13C c
 <li>customize table by unchecking every value but for f2 (change visible name to 1H) and f1 (change visible name to 13C)</li>
 <li>change number of decimals for f1 to '1'</li>
 <li>copy all (ctrl+A)</li>
-<li>click on 'copy peaks' and choose 'copy table'
-5a. Generate .csv file for SMART Analysis</li>
+<li>click on 'copy peaks' and choose 'copy table'</li>
+</ul>
+</li>
+<li>
+<p>Generate NMR table from annotated HSQC spectrum</p>
+<ul>
 <li>open Excel or similar program and paste the table (ctrl+V)</li>
 <li>copy and paste the table so that all values with 1H data are in column A2-AX and all values with 13C data are in column B2-BXX</li>
 <li>mark your table + header (1H,13C) and save as comma-separated file (.csv).</li>
 </ul>
 </li>
+<li>
+<p>Run SMART Analysis directly</p>
+<ul>
+<li>copy and paste the table (ctrl+V) directly to the peak list section of https://smart.ucsd.edu/classic</li>
+<li>Important: Apply one backslash to remove the additional space character that is imported with the NMR table'</li>
+<li>Click on 'Analyze entered peak list'
+ <img alt="SMART_important_backslash" src="https://user-images.githubusercontent.com/57916837/110534087-89020d80-80d3-11eb-9556-ee5cf973c3aa.png" /></li>
+</ul>
+</li>
 </ol>
-<p>5b. Run SMART Analysis directly 
-    1. copy and paste the table (ctrl+V) directly to the peak list section of https://smart.ucsd.edu/classic 
-    2. Important: Apply one backslash to remove the additional space character that is imported with the NMR table
-    3. Click on 'Analyze entered peak list'
- <img alt="SMART_important_backslash" src="https://user-images.githubusercontent.com/57916837/110534087-89020d80-80d3-11eb-9556-ee5cf973c3aa.png" /></p>
 <p><strong>You are ready to use SMART 2.0 Analysis! :)</strong></p>
 <p><strong>Please feel free to play around with the processing parameters such as including/excluding noise signals or signals from other minor compounds in case of mixtures or explore the differences of SMART results when referencing your spectra compared to tables without referencing. Overall SMART is designed to be very robust towards any of these changes as its training is not only based on the absolute position of the peaks, but the relative position of each peak towards every other peak (see also References 1 + 2).</strong></p>
 <h2 id="input-data-formatting-using-mestrenova">Input Data Formatting using MestreNova</h2>
@@ -714,7 +724,7 @@ or for .tsv:
 When you enter the peak list as tab-separated or comma-separated table make sure that the first row is:
 1H,13C or 
 1H    13C, respectively. Do NOT include any additional spaces or " signs.
-Especially, if you copy&amp;paste your table directly from MestreNova, apply one backslash to remove the additional space character that is imported with the NMR table</li>
+<strong>Especially, if you copy&amp;paste your table directly from MestreNova, apply one backslash to remove the additional space character that is imported with the NMR table</strong></li>
 </ol>
 <p><strong>Downloaded Results file cannot be opened</strong></p>
 <p>Yes you can :) You can open the downloaded results with any text editor (Excel, Notepad, Wordpad). Just make a right-click on the file, click on 'open with' and then choose one of the former mentioned programs.</p>
